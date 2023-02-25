@@ -1,0 +1,65 @@
+
+\subject{City location descriptions for ATS}
+\title{Company\!/Facility Directory}
+\subtitle{Preview Supplement}  % \\ Additional Incomplete Content
+
+\hypersetup{
+	pdfsubject={City location descriptions for ATS},
+	pdftitle={Company/Facility Directory (Supplement)},
+}
+
+\usepackage{scrlayer-scrpage}  % for \cfoot*
+
+\begin{document}
+
+\maketitle
+
+\section*{Preamble}
+
+{
+\justifying
+
+This \textbf{supplement} to the Company/Facility Directory (C/FD) only partly covers those states for which work is nowhere near complete.
+Please find the regular C/FD on the SCS forum:
+
+\centering \vspace{1ex}
+\url{https://forum.scssoft.com/viewtopic.php?t=317942} \par
+}
+
+\maketoc
+
+
+%\chapter{California}
+%\input{cities/california/_all}
+
+{% cfoot+chead: only for preview version: on title page only
+\cfoot*{Typeset in \TeX}
+\chead*{\centering Copyright {\small\copyright} \the\year. All rights reserved.}  % instead of \titlehead
+
+\chapter{Colorado}
+}
+\input{cities/colorado/_all}
+
+\chapter{Montana}
+\input{cities/montana/_all}
+
+\chapter{Nevada}
+\input{cities/nevada/_all}
+
+\chapter{New Mexico}
+\input{cities/new_mexico/_all}
+
+\chapter{Oregon}
+\input{cities/oregon/_all}
+
+\chapter{Texas}
+\input{cities/texas/_all}
+
+\chapter{Utah}
+\input{cities/utah/_all}
+
+\chapter{Wyoming}
+\input{cities/wyoming/_all}
+
+\end{document} 
+

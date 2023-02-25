@@ -1,0 +1,62 @@
+
+\subject{City location descriptions for ATS}
+\title{Company\!/Facility Directory}
+\subtitle{Preview Edition}
+
+\hypersetup{
+	pdfsubject={City location descriptions for ATS},
+	pdftitle={Company/Facility Directory (Preview)},
+}
+
+\usepackage{scrlayer-scrpage}  % for \cfoot*
+
+\begin{document}
+
+\maketitle
+
+\section*{Preamble}
+
+{
+\justifying
+
+The Company/Facility Directory (C/FD) is designed to assist those who like driving in American Truck Simulator without the help of simulated GPS navigation.
+
+This \textbf{early preview edition} only contains those three states for which the C/FD is already more or less complete.
+Some \emph{in}complete additional content for other states is available separately as a supplement.
+
+%This project is quite new and I don't really know yet where I'm going with it.
+%Right now, the content structure is very similar to that of the wiki I used to upload these location descriptions to prior to February 2023.
+%But it's not necessarily useful for it to stay that way.
+%The idea is for the C/FD to be printable on paper---unlike the wiki, which was optimized to be viewed on a screen.
+%Trading hypertext for a fixed canvas size brings both new challenges and opportunities.
+
+%I don't know yet how the final edition of the C/FD will be structured and collated, nor what other content besides location descriptions it will eventually contain.
+%Additionally, the visual design might change significantly from this early preview edition.
+%This document has been typeset with \TeX, so it would even be relatively easy to produce multiple different versions---say, one for screen viewing, another one for printing.
+
+The final edition of the C/FD may look very different from this early preview.
+Future updates will be made available on the SCS forum.
+Should you find this project interesting, please join the discussion!
+
+\centering \vspace{1ex}
+\url{https://forum.scssoft.com/viewtopic.php?t=317942} \par
+}
+
+\maketoc
+
+
+{% cfoot+chead: only for preview version: on title page only
+\cfoot*{Typeset in \TeX}
+\chead*{\centering Copyright {\small\copyright} \the\year. All rights reserved.}  % instead of \titlehead
+
+\chapter{Arizona}
+}
+\input{cities/arizona/_all}
+
+\chapter{Idaho}
+\input{cities/idaho/_all}
+
+\chapter{Washington}
+\input{cities/washington/_all}
+
+\end{document}
