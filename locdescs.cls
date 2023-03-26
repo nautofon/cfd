@@ -188,6 +188,24 @@ exit~#1/#2%
 \ifthenelse{\isempty{#1}}{\makeCityRef{#2}{#2}}{\makeCityRef{#1}{#2}}}
 \newcommand*{\makeCityRef}[2]{\hyperref[city:#1]{\Town{#2} ($\rightarrow$\,p.\,\pageref*{city:#1})}}
 
+% If an individual city exceptionally appears in the TOC, don't show a section number
+\setcounter{secnumdepth}{0}
+
+
+
+% City disclaimer "not field checked" and sources
+
+\RequirePackage{nameref}
+\makeatletter
+\newcommand*{\ThisCity}{\@currentlabelname}
+\makeatother
+
+\newcommand*{\CityDisclaimer}[1]{% #1 = reason
+{\ifthenelse{\equal{#1}{ATS IRL Map}}%
+{\textsl{The location descriptions for \ThisCity\ have not yet been field checked in ATS by the author.\textsuperscript{\scriptsize $\ast$} Use with caution.}}%
+{\ClassError{locdescs}{CityDisclaimer reason '#1' unsupported}{}}%
+}}
+
 
 
 % Facility designations
@@ -223,6 +241,7 @@ exit~#1/#2%
 \newcommand*{\Weigh}{\facilityIconFallback{Weigh}}
 \newcommand*{\SpecialTransport}{\facilityIconFallback{Special\,Transport}}
 \newcommand*{\Dynamic}{\facilityIconFallback{Dynamic}}
+\newcommand*{\Multiple}{\facilityIconFallback{Multiple}}
 
 
 

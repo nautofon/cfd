@@ -12,9 +12,9 @@
 	<!ENTITY st9 "fill:#E69000;">
 	<!ENTITY st10 "stroke:#EEEEEE;stroke-width:0.5669;stroke-miterlimit:10;">
 ]>
-<!-- Created 2022 by nautofon. Reuse allowed under the terms of CC-BY-SA 3.0 unported. You may modify and share this map, but you must always clearly acknowledge "nautofon" as the original author. -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="276.91px" height="322.29px" viewBox="0 0 370.46 431.17" style="enable-background:new 0 0 370.46 431.17;" xml:space="preserve">
 <title>Company/Facility Directory status</title>
+<desc>Map showing status overview of the progress on location descriptions for the "Company/Facility Directory" project, created 2022 by nautofon. Reuse is allowed under the terms of CC-BY-SA 3.0 unported. You may copy, modify and share this map, but you must always clearly acknowledge "nautofon" as the original author.</desc>
 <metadata>
 	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
 		<cc:Work rdf:about="">
@@ -129,19 +129,19 @@
 		<use xlink:href="#open" width="8.5" height="8.5" id="ukiah" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 25.9995 205.25)" style="overflow:visible;"/>
 	</g>
 	<g id="CO">
-		<use xlink:href="#open" width="8.5" height="8.5" id="alamosa" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 288.4165 296.1221)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="alamosa" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 288.4165 296.1221)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="burlington" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 346.667 263.4971)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="colorado_spr" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 310.6665 268.7886)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="colorado_spr" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 310.6665 268.7886)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="denver" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 308.4165 255.1221)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="durango" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 256.25 295.2886)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="fort_collins" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 306.833 233.7886)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="fort_collins" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 306.833 233.7886)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="grand_juncti" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 252.916 261.1221)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="lamar" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 341.833 288.3721)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="montrose" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 259.833 271.7051)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="montrose" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 259.833 271.7051)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="pueblo" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 307.333 281.3721)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="rangely" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 251.333 237.1221)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="rangely" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 251.333 237.1221)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="steamboat_sp" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 280.7495 233.8721)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="sterling" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 331.583 237.2886)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="sterling" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 331.583 237.2886)" style="overflow:visible;"/>
 	</g>
 	<g id="ID">
 		<use xlink:href="#all" width="8.5" height="8.5" id="boise" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 156.8745 145.9141)" style="overflow:visible;"/>
