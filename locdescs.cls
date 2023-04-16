@@ -200,9 +200,9 @@ exit~#1/#2%
 \newcommand*{\ThisCity}{\@currentlabelname}
 \makeatother
 
-\newcommand*{\CityDisclaimer}[1]{% #1 = reason
+\NewDocumentCommand{\CityDisclaimer}{ m O{$\ast$} }{% #1 = reason, #2 = footnote
 {\ifthenelse{\equal{#1}{ATS IRL Map}}%
-{\textsl{The location descriptions for \ThisCity\ have not yet been field checked in ATS by the author.\textsuperscript{\scriptsize $\ast$} Use with caution.}}%
+{\textsl{The location descriptions for \ThisCity\ have not yet been field checked in ATS by the author.\textsuperscript{\scriptsize #2} Use with caution.}}%
 {\ClassError{locdescs}{CityDisclaimer reason '#1' unsupported}{}}%
 }}
 
