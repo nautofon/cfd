@@ -218,15 +218,15 @@
 		<use xlink:href="#open" width="8.5" height="8.5" id="the_dalles" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 88.833 92.833)" style="overflow:visible;"/>
 	</g>
 	<g id="UT">
-		<use xlink:href="#open" width="8.5" height="8.5" id="cedar_city" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 178.2495 269.3726)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="cedar_city" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 178.2495 269.3726)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="logan" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 209.9995 197.8721)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="moab" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 235.2495 265.1226)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="ogden" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 203.5005 206.2056)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="price" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 221.7495 240.7056)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="moab" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 235.2495 265.1226)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="ogden" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 203.5005 206.2056)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="price" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 221.7495 240.7056)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="provo" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 207.9165 226.7056)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="salina" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 200.166 249.6226)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="salt_lake" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 201.9165 215.7061)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="st_george" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 166.833 281.0391)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="salt_lake" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 201.9165 215.7061)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="st_george" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 166.833 281.0391)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="vernal" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 240.7495 227.7056)" style="overflow:visible;"/>
 	</g>
 	<g id="WA">
