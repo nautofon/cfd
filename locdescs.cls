@@ -42,7 +42,7 @@
 %\RequirePackage{datetime}\newcommand*{\themonthandyear}{\newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}\monthyeardate\today}
 \newcommand*{\themonthandyear}{\ifcase\month\or January\or February\or March\or April\or May\or June\or July\or August\or September\or October\or November\or December\fi\ \the\year}
 
-%\titlehead{\centering Copyright {\small\copyright} 2023. All rights reserved.}
+%\titlehead{\centering Copyright {\small\copyright} 2023. Some rights reserved.}
 \subject{City location descriptions for ATS}
 \title{Company/Facility Directory}
 \author{by nautofon, \themonthandyear}

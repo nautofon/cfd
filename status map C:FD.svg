@@ -14,7 +14,11 @@
 ]>
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="276.91px" height="322.29px" viewBox="0 0 370.46 431.17" style="enable-background:new 0 0 370.46 431.17;" xml:space="preserve">
 <title>Company/Facility Directory status</title>
-<desc>Map showing status overview of the progress on location descriptions for the "Company/Facility Directory" project, created 2022 by nautofon. Reuse is allowed under the terms of CC-BY-SA 3.0 unported. You may copy, modify and share this map, but you must always clearly acknowledge "nautofon" as the original author.</desc>
+<desc>Map showing status overview of the progress on location descriptions
+for the "Company/Facility Directory" project, created 2022 by nautofon.
+Reuse is allowed under the terms of CC BY-NC-SA 4.0.
+You may copy, modify and share this map, but you must always
+clearly acknowledge "nautofon" as the original author.</desc>
 <metadata>
 	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
 		<cc:Work rdf:about="">
@@ -24,13 +28,14 @@
 				</cc:Agent>
 			</dc:creator>
 			<dc:date>2022-11-10</dc:date>
-			<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+			<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
 		</cc:Work>
-		<cc:License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+		<cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
 			<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
 			<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
 			<cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
 			<cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+			<cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
 			<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
 			<cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
 		</cc:License>
