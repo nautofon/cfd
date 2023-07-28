@@ -162,21 +162,21 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="twin_falls" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 175.7495 171.1641)" style="overflow:visible;"/>
 	</g>
 	<g id="MT">
-		<use xlink:href="#open" width="8.5" height="8.5" id="billings" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 273.4985 120.168)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="bozeman" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 231.998 118.8345)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="butte" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 213.8315 110.168)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="billings" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 273.4985 120.168)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="bozeman" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 231.998 118.8345)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="butte" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 213.8315 110.168)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="glasgow_mt" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 302.4985 76.501)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="glendive" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 324.332 103.168)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="great_falls" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 238.9985 76.5015)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="havre" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 263.165 64.3345)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="great_falls" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 238.9985 76.5015)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="havre" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 263.165 64.3345)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="helena" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 226.1655 96.668)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="kalispell" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 196.165 57.168)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="laurel" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 265.665 126.6675)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="lewistown" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 260.832 93.835)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="lewistown" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 260.832 93.835)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="miles_city" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 309.332 110.502)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="missoula" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 195.332 83.8345)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="missoula" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 195.332 83.8345)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="sidney" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 329.998 89.1675)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="thompson_f" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 185.9985 69.8345)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="thompson_f" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 185.9985 69.8345)" style="overflow:visible;"/>
 	</g>
 	<g id="NM">
 		<use xlink:href="#all" width="8.5" height="8.5" id="alamogordo" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 278.1665 387.9561)" style="overflow:visible;"/>
