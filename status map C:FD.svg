@@ -171,7 +171,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="kalispell" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 196.165 57.168)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="laurel" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 265.665 126.6675)" style="overflow:visible;"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="lewistown" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 260.832 93.835)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="miles_city" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 309.332 110.502)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="miles_city" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 309.332 110.502)" style="overflow:visible;"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="missoula" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 195.332 83.8345)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="sidney" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 329.998 89.1675)" style="overflow:visible;"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="thompson_f" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 185.9985 69.8345)" style="overflow:visible;"/>
