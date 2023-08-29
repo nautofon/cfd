@@ -273,6 +273,7 @@ exit~#1/#2%
 \newcommand*{\shieldFallbackTextAlt}{\:Alt}
 \newcommand*{\shieldFallbackTextBus}{\:Bus}
 \newcommand*{\shieldFallbackTextByp}{\:Byp}  % bypass
+\newcommand*{\shieldFallbackTextHist}{\:Hist}  % historic
 
 
 
@@ -292,14 +293,16 @@ exit~#1/#2%
 \ifthenelse{\equal{#3}{Alt}}{\shieldUSAlt{#2}}{%
 \ifthenelse{\equal{#3}{Bus}}{\shieldUSBus{#2}}{%
 \ifthenelse{\equal{#3}{Byp}}{\shieldUSByp{#2}}{%
+\ifthenelse{\equal{#3}{Hist}}{\shieldUSHist{#2}}{%
 \ifthenelse{\NOT \isempty{#3}}{\shieldUndef{US #1 #2 #3}}{%
 \ifthenelse{\NOT \isempty{#1}}{\shieldUndef{US #1 #2}}{%
 \shieldUS{#2}%
-}}}}}}
+}}}}}}}
 
 \newcommand*{\shieldUSAlt}[1]{\shieldFederal{#1}[\shieldFallbackTextAlt]}
 \newcommand*{\shieldUSBus}[1]{\shieldFederal{#1}[\shieldFallbackTextBus]}
 \newcommand*{\shieldUSByp}[1]{\shieldFederal{#1}[\shieldFallbackTextByp]}
+\newcommand*{\shieldUSHist}[1]{\shieldFederal{#1}[\shieldFallbackTextHist]}
 \newcommand*{\shieldUS}[1]{\shieldFederal{#1}}
 
 
