@@ -63,8 +63,8 @@ Idaho,Twin Falls,twin_falls,all,8,10,11,40,40,2022-11,1.46,
 Montana,Billings,billings,cleanup,10,12,11,40,25,2023-07,,IRL map
 Montana,Bozeman,bozeman,cleanup,10,12,11,40,25,2023-07,,IRL map
 Montana,Butte,butte,cleanup,11,13,12,40,40,2023-06,,IRL map
-Montana,Glasgow,glasgow_mt,,7,9,8,25,,,,
-Montana,Glendive,glendive,,8,10,9,30,,,,
+Montana,Glasgow,glasgow_mt,cleanup,7,9,8,25,25,2023-10,,IRL map
+Montana,Glendive,glendive,cleanup,8,10,9,30,20,2023-10,,IRL map
 Montana,Great Falls,great_falls,cleanup,8,10,12,40,35,2023-07,,IRL map
 Montana,Havre,havre,cleanup,10,12,11,40,35,2023-07,,IRL map
 Montana,Helena,helena,all,7,9,10,35,40,2022-11,1.46,
@@ -73,7 +73,7 @@ Montana,Laurel,laurel,all,5,7,6,20,15,2022-12,1.46,
 Montana,Lewistown,lewistown,cleanup,6,8,7,25,20,2023-07,,IRL map
 Montana,Miles City,miles_city,cleanup,7,9,7,25,20,2023-08,,IRL map
 Montana,Missoula,missoula,cleanup,10,12,11,40,35,2023-06,,IRL map
-Montana,Sidney,sidney,,6,8,7,25,,,,
+Montana,Sidney,sidney,cleanup,6,8,7,25,20,2023-10,,IRL map
 Montana,Thompson Falls,thompson_f,cleanup,5,7,6,20,25,2023-07,,IRL map
 Nevada,Carson City,carson_city,,4,6,,20,,,,
 Nevada,Elko,elko,,8,10,,35,,,,
