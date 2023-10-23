@@ -207,12 +207,12 @@ clearly acknowledge "nautofon" as the original author.</desc>
 	<g id="OK" transform="translate(-4.25 -4.25)">
 		<use xlink:href="#all" width="8.5" height="8.5" id="ardmore" transform="translate(428.75 362.24)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="clinton" transform="translate(397.62 340.36)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="enid" transform="translate(416.71 323.62)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="guymon" transform="translate(359.08 316.79)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="enid" transform="translate(416.71 323.62)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="guymon" transform="translate(359.08 316.79)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="idabel" transform="translate(467.37 372.22)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="lawton" transform="translate(404.08 359.89)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="lawton" transform="translate(404.08 359.89)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="mcalester" transform="translate(452.54 356.07)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="oklahoma_cit" transform="translate(424.49 344.17)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="oklahoma_cit" transform="translate(424.49 344.17)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="tulsa" transform="translate(445.05 327)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="woodward" transform="translate(389.84 323.62)"/>
 	</g>

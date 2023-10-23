@@ -202,6 +202,12 @@ exit~#1/#2%
 
 
 
+% Common abbreviations
+
+\newcommand*{\MLKing}{M.\,L.\,King}
+
+
+
 % Facility designations
 
 \newcommand*{\GarageHQ}{Garage }
