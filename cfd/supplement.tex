@@ -8,6 +8,11 @@
 	pdftitle={Company/Facility Directory (Supplement)},
 }
 
+% front matter on single page (also needs titlepage=no)
+\makeatletter
+\newcommand*{\maketoc}{\section*{Contents}\@starttoc{toc}}  % \tableofcontents
+\makeatother
+
 \usepackage{scrlayer-scrpage}  % for \cfoot*
 
 \begin{document}

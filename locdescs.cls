@@ -1,7 +1,6 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{locdescs}[2023/02/10 Company/Facility Directory]
 \LoadClass[
-	version=3.32,
 %	listof=nochaptergap,
 %	listof=totoc,
 ]{scrbook}
@@ -34,11 +33,6 @@
 
 % --------------
 
-% front matter on single page (also needs titlepage=no)
-\makeatletter
-\newcommand*{\maketoc}{\section*{Contents}\@starttoc{toc}}  % \tableofcontents
-\makeatother
-
 %\RequirePackage{datetime}\newcommand*{\themonthandyear}{\newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}\monthyeardate\today}
 \newcommand*{\themonthandyear}{\ifcase\month\or January\or February\or March\or April\or May\or June\or July\or August\or September\or October\or November\or December\fi\ \the\year}
 
@@ -49,7 +43,7 @@
 \date{}
 
 % Header style
-\setkomafont{pageheadfoot}{\textit}  % \fontshape{ui}\selectfont = upright italic
+\setkomafont{pagehead}{\normalfont\normalcolor\itshape}
 \renewcommand*{\chaptermarkformat}{}  % suppress chapter number in header
 
 % titles for continuing section:

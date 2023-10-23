@@ -8,12 +8,11 @@
 	pdftitle={Company/Facility Directory (Preview)},
 }
 
-\usepackage{scrlayer-scrpage}  % for \cfoot*
-
 \begin{document}
 
 \maketitle
 
+\vspace{5mm}
 \section*{Preamble}
 
 {
@@ -42,15 +41,20 @@ Should you find this project interesting, please join the discussion!
 \url{https://forum.scssoft.com/viewtopic.php?t=317942} \par
 }
 
-\maketoc
+{
+\centering \vspace{30mm} \footnotesize \itshape
+Copyright \raisebox{.2ex}{\scriptsize\copyright} \the\year\ nautofon \par
+\vspace{.4ex}
+\href{https://creativecommons.org/licenses/by-nc-sa/4.0/}{CC BY-NC-SA 4.0} \par
+\vspace{.4ex}
+Typeset in \TeX \par
+}
+\thispagestyle{empty}
 
-
-{% cfoot+chead: only for preview version: on title page only
-\cfoot*{Typeset in \TeX}
-\chead*{\centering Copyright {\small\copyright} \the\year, CC BY-NC-SA}  % instead of \titlehead
+\tableofcontents
+\thispagestyle{empty}
 
 \chapter{Arizona}
-}
 \input{cities/arizona/_all}
 
 \chapter{Colorado}
