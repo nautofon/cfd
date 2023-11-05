@@ -252,13 +252,13 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="laredo" transform="translate(444.21 407.51)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="longview_tx" transform="translate(525.7 301.12)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="lubbock" transform="translate(409.73 282.32)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="lufkin" transform="translate(525.52 326.75)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="lufkin" transform="translate(525.52 326.75)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="mcallen" transform="translate(462.09 428.34)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="odessa" transform="translate(399.4 316.8)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="san_angelo" transform="translate(432.59 326.38)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="san_antonio" transform="translate(461.17 367.87)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="texarkana" transform="translate(535.25 290.84)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="tyler" transform="translate(516.11 309.42)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="tyler" transform="translate(516.11 309.42)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="van_horn" transform="translate(355.7 328.96)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="victoria" transform="translate(487.17 379.67)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="waco" transform="translate(486.43 325.28)"/>
