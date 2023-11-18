@@ -237,7 +237,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#open" width="8.5" height="8.5" id="amarillo" transform="translate(411.39 249.13)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="austin" transform="translate(475 349.06)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="beaumont" transform="translate(539.53 353.12)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="brownsville" transform="translate(478.5 434.43)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="brownsville" transform="translate(478.5 434.43)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="corpus_chris" transform="translate(480.34 400.87)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="dalhart" transform="translate(399.92 230.11)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="dallas" transform="translate(493.62 295.22)"/>
@@ -253,7 +253,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="longview_tx" transform="translate(525.7 301.12)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="lubbock" transform="translate(409.73 282.32)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="lufkin" transform="translate(525.52 326.75)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="mcallen" transform="translate(462.09 428.34)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="mcallen" transform="translate(462.09 428.34)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="odessa" transform="translate(399.4 316.8)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="san_angelo" transform="translate(432.59 326.38)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="san_antonio" transform="translate(461.17 367.87)"/>
