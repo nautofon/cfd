@@ -240,11 +240,11 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="brownsville" transform="translate(478.5 434.43)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="corpus_chris" transform="translate(480.34 400.87)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="dalhart" transform="translate(399.92 230.11)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="dallas" transform="translate(493.62 295.22)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="dallas" transform="translate(493.62 295.22)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="del_rio" transform="translate(421.53 368.24)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="el_paso" transform="translate(333.03 312.92)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="fort_stockto" transform="translate(387.42 334.68)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="fort_worth" transform="translate(479.61 296.88)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="fort_worth" transform="translate(479.61 296.88)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="galveston" transform="translate(523.3 366.58)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="houston" transform="translate(513.35 355.52)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="huntsville" transform="translate(510.95 336.16)"/>
