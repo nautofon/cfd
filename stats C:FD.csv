@@ -151,7 +151,7 @@ Texas,Texarkana,texarkana,all,3,5,6,15,20,2023-09,1.48,
 Texas,Tyler,tyler,all,8,10,10,35,35,2023-10,1.48,
 Texas,Van Horn,van_horn,,6,8,,25,,,,
 Texas,Victoria,victoria,all,11,13,13,45,65,2023-02,1.46,
-Texas,Waco,waco,,10,12,,40,,,,
+Texas,Waco,waco,all,10,12,11,40,50,2023-11,1.49,
 Texas,Wichita Falls,wichita_fall,,7,9,,30,,,,wiki
 Utah,Cedar City,cedar_city,all,7,9,7,25,25,2023-05,1.47,
 Utah,Logan,logan,all,6,8,7,25,25,2023-02,1.46,
