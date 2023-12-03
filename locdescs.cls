@@ -357,6 +357,16 @@ exit~#1/#2%
 
 % Kansas
 
+\NewDocumentCommand{\KS}{ O{} m O{} }{%
+\ifthenelse{\NOT \isempty{#3}}{\shieldUndef{KS #1 #2 #3}}{%
+\ifthenelse{\NOT \isempty{#1}}{\shieldUndef{KS #1 #2}}{%
+\shieldKS{#2}%
+}}}
+
+\newcommand*{\shieldKS}[1]{\shieldState{K}[-]{#1}}
+
+
+
 % Montana
 
 \NewDocumentCommand{\MT}{ O{} m O{} }{%

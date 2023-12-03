@@ -159,6 +159,22 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="sandpoint" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 169.6245 47.4141)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="twin_falls" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 175.7495 171.1641)" style="overflow:visible;"/>
 	</g>
+	<g id="KS">
+		<use xlink:href="#open" width="8.5" height="8.5" id="colby" transform="translate(360 258.13)"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="dodge_city" transform="translate(379.94 291.74)"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="emporia" transform="translate(440.25 281.26)"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="garden_city" transform="translate(361.72 289.43)"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="hays" transform="translate(388.8 274.59)"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="hutchinson" transform="translate(408.71 286.55)"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="junction_cit" transform="translate(427.03 266.87)"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="kansas_city" transform="translate(458.8 269.14)"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="marysville" transform="translate(433.43 254.13)"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="phillipsburg" transform="translate(389.76 253.16)"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="pittsburg" transform="translate(459.91 299.64)"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="salina_ks" transform="translate(416.65 274.57)"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="topeka" transform="translate(443.85 268.92)"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="wichita" transform="translate(418.02 296.61)"/>
+	</g>
 	<g id="MT">
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="billings" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 273.4985 120.168)" style="overflow:visible;"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="bozeman" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 231.998 118.8345)" style="overflow:visible;"/>
