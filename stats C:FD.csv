@@ -72,8 +72,8 @@ Kansas,Marysville,marysville,,4,6,,20,,,,
 Kansas,Phillipsburg,phillipsburg,,4,6,,20,,,,
 Kansas,Pittsburg,pittsburg,,10,12,,40,,,,
 Kansas,Salina,salina_ks,,10,12,,40,,,,
-Kansas,Topeka,topeka,,10,12,,45,,,,
-Kansas,Wichita,wichita,,11,13,,50,,,,
+Kansas,Topeka,topeka,cleanup,10,12,13,45,30,2023-12,,IRL map
+Kansas,Wichita,wichita,cleanup,11,13,15,50,50,2023-12,,IRL map
 Montana,Billings,billings,cleanup,10,12,11,40,25,2023-07,,IRL map
 Montana,Bozeman,bozeman,cleanup,10,12,11,40,25,2023-07,,IRL map
 Montana,Butte,butte,cleanup,11,13,12,40,40,2023-06,,IRL map

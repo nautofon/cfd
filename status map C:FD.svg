@@ -172,8 +172,8 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#open" width="8.5" height="8.5" id="phillipsburg" transform="translate(389.76 253.16)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="pittsburg" transform="translate(459.91 299.64)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="salina_ks" transform="translate(416.65 274.57)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="topeka" transform="translate(443.85 268.92)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="wichita" transform="translate(418.02 296.61)"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="topeka" transform="translate(443.85 268.92)"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="wichita" transform="translate(418.02 296.61)"/>
 	</g>
 	<g id="MT">
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="billings" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 273.4985 120.168)" style="overflow:visible;"/>
