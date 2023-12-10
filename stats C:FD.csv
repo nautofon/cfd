@@ -61,9 +61,9 @@ Idaho,Salmon,salmon,all,5,7,7,25,15,2022-11,1.46,
 Idaho,Sandpoint,sandpoint,all,8,10,8,25,35,2022-11,1.46,
 Idaho,Twin Falls,twin_falls,all,8,10,11,40,40,2022-11,1.46,
 Kansas,Colby,colby,cleanup,9,11,9,40,15,2023-12,,IRL map
-Kansas,Dodge City,dodge_city,,10,12,,40,,,,
+Kansas,Dodge City,dodge_city,cleanup,10,12,11,40,25,2023-12,,IRL map
 Kansas,Emporia,emporia,,11,13,,45,,,,
-Kansas,Garden City,garden_city,,8,10,,35,,,,
+Kansas,Garden City,garden_city,cleanup,8,10,9,35,25,2023-12,,IRL map
 Kansas,Hays,hays,,12,14,,50,,,,
 Kansas,Hutchinson,hutchinson,,9,11,,40,,,,
 Kansas,Junction City,junction_cty,,9,11,,40,,,,
