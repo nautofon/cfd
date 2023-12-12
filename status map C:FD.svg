@@ -162,9 +162,9 @@ clearly acknowledge "nautofon" as the original author.</desc>
 	<g id="KS">
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="colby" transform="translate(360 258.13)"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="dodge_city" transform="translate(379.94 291.74)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="emporia" transform="translate(440.25 281.26)"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="emporia" transform="translate(440.25 281.26)"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="garden_city" transform="translate(361.72 289.43)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="hays" transform="translate(388.8 274.59)"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="hays" transform="translate(388.8 274.59)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="hutchinson" transform="translate(408.71 286.55)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="junction_cit" transform="translate(427.03 266.87)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="kansas_city" transform="translate(458.8 269.14)"/>
