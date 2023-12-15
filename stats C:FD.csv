@@ -67,10 +67,10 @@ Kansas,Garden City,garden_city,cleanup,8,10,9,35,25,2023-12,,IRL map
 Kansas,Hays,hays,cleanup,12,14,16,50,30,2023-12,,IRL map
 Kansas,Hutchinson,hutchinson,,9,11,,40,,,,
 Kansas,Junction City,junction_cty,,9,11,,40,,,,
-Kansas,Kansas City,kansas_ci_ks,,8,10,,35,,,,
+Kansas,Kansas City,kansas_ci_ks,cleanup,8,10,9,35,50,2023-12,,IRL map
 Kansas,Marysville,marysville,,4,6,,20,,,,
 Kansas,Phillipsburg,phillipsburg,,4,6,,20,,,,
-Kansas,Pittsburg,pittsburg,,10,12,,40,,,,
+Kansas,Pittsburg,pittsburg,cleanup,10,12,11,40,25,2023-12,,IRL map
 Kansas,Salina,salina_ks,cleanup,10,12,12,40,30,2023-12,,IRL map
 Kansas,Topeka,topeka,cleanup,10,12,13,45,30,2023-12,,IRL map
 Kansas,Wichita,wichita,cleanup,11,13,15,50,50,2023-12,,IRL map
