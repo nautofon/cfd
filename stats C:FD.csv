@@ -65,11 +65,11 @@ Kansas,Dodge City,dodge_city,cleanup,10,12,11,40,25,2023-12,,IRL map
 Kansas,Emporia,emporia,cleanup,11,13,11,45,35,2023-12,,IRL map
 Kansas,Garden City,garden_city,cleanup,8,10,9,35,25,2023-12,,IRL map
 Kansas,Hays,hays,cleanup,12,14,16,50,30,2023-12,,IRL map
-Kansas,Hutchinson,hutchinson,,9,11,,40,,,,
+Kansas,Hutchinson,hutchinson,cleanup,9,11,10,40,35,2023-12,,IRL map
 Kansas,Junction City,junction_cty,,9,11,,40,,,,
 Kansas,Kansas City,kansas_ci_ks,cleanup,8,10,9,35,50,2023-12,,IRL map
-Kansas,Marysville,marysville,,4,6,,20,,,,
-Kansas,Phillipsburg,phillipsburg,,4,6,,20,,,,
+Kansas,Marysville,marysville,cleanup,4,6,5,20,15,2023-12,,IRL map
+Kansas,Phillipsburg,phillipsburg,cleanup,4,6,5,20,10,2023-12,,IRL map
 Kansas,Pittsburg,pittsburg,cleanup,10,12,11,40,25,2023-12,,IRL map
 Kansas,Salina,salina_ks,cleanup,10,12,12,40,30,2023-12,,IRL map
 Kansas,Topeka,topeka,cleanup,10,12,13,45,30,2023-12,,IRL map
