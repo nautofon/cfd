@@ -152,7 +152,7 @@ Texas,Fort Worth,fort_worth,all,11,13,10,45,50,2023-11,1.49,
 Texas,Galveston,galveston,all,4,6,6,20,25,2022-12,1.46,
 Texas,Houston,houston,all,8,10,12,40,65,2023-06,1.48,
 Texas,Huntsville,huntsville,all,7,9,9,30,55,2023-11,1.49,
-Texas,Junction,junction,,7,9,,30,,,,
+Texas,Junction,junction,all,7,9,9,30,30,2024-01,1.49,
 Texas,Laredo,laredo,all,9,11,12,40,40,2023-07,1.48,
 Texas,Longview,longview_tx,all,11,13,13,45,60,2023-02,1.46,
 Texas,Lubbock,lubbock,,14,16,,55,,,,wiki
