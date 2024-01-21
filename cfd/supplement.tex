@@ -12,6 +12,7 @@
 \makeatletter
 \newcommand*{\maketoc}{\section*{Contents}\@starttoc{toc}}  % \tableofcontents
 \makeatother
+\RedeclareSectionCommand[tocnumwidth=2.8em]{chapter} % allow for wide chapter codes
 
 \usepackage{scrlayer-scrpage}  % for \cfoot*
 
@@ -34,24 +35,16 @@ Please find the regular C/FD on the SCS forum:
 \maketoc
 
 
-%\chapter{California}
-%\input{cities/california/_all}
-
 {% cfoot+chead: only for preview version: on title page only
 \cfoot*{Typeset in \TeX}
 \chead*{\centering Copyright {\small\copyright} \the\year, CC BY-NC-SA}  % instead of \titlehead
-
-\chapter{Nevada}
+\clearpage
 }
+
+%\input{cities/california/_all}
 \input{cities/nevada/_all}
-
-\chapter{New Mexico}
 \input{cities/new_mexico/_all}
-
-\chapter{Oregon}
 \input{cities/oregon/_all}
-
-\chapter{Texas}
 \input{cities/texas/_all}
 
 \end{document} 

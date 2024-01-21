@@ -14,7 +14,7 @@
 	fontsize=10pt,
 	headings=normal,  % chapter heading font size (default is 'big', 'small' is also available)
 	numbers=noendperiod,  % 1.2.3 instead of 1.2.3. (even in the presence of appendices)
-	toc=chapterentrywithdots,
+	toc=flat,
 	titlepage=no,
 }
 \pagestyle{headings}
@@ -161,6 +161,30 @@ exit~#1/#2%
 {\marginpar{\rule{1.5em}{1em}}\ClassWarning{locdescs}{TODO: "#1"}}{%
 }}
 \newcommand*{\logTODOWarn}{0}  % 1 for warning, 0 for ignore
+
+
+
+% State chapters
+
+\newcommand*{\ChapterForState}[2]{% #1 = chapter code, #2 = chapter title
+\chapter*{#2}
+\markright{#2} % chapter name in page header
+\addcontentsline{toc}{chapter}{\protect\numberline{#1}#2}
+\renewcommand{\thepage}{#1-\arabic{page}}
+\setcounter{page}{1} % reset page numbering to 1 for each chapter
+\stepcounter{chapter} % increment the (unused) numeric chapter counter
+}
+
+% Hide page numbers in toc: With the state abbreviation (= chapter "number")
+% included in the page numbers, the page number for chapter AA is always AA-1.
+% Hence, page numbers for state chapters are no longer useful information.
+% (Might need to revisit this once non-state chapters appear.)
+\addtokomafont{chapterentrypagenumber}{\color{white}}
+
+% Allow for wide page numbers in toc (for section entries)
+\makeatletter
+\renewcommand*{\@pnumwidth}{3.5em}
+\makeatother
 
 
 
