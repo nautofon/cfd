@@ -95,9 +95,7 @@
 \RequirePackage{color}
 \RequirePackage{enumitem}
 
-% \Ifdvioutput{true branch }{false branch }
-% \Ifpdfoutput{true branch }{false branch }
-\newcommand*{\pgfsysdriver}{pgfsys-dvipdfm.def}
+\Ifdvioutput{\def\pgfsysdriver{pgfsys-dvipdfm.def}}{}
 \RequirePackage{tikz}
 
 \RequirePackage{microtype}
@@ -488,15 +486,12 @@ exit~#1/#2%
 % URLS and links
 % should be one of the last packages imported to avoid issues
 % docs: https://ctan.math.utah.edu/ctan/tex-archive/macros/latex/contrib/hyperref/doc/hyperref-doc.html
-\RequirePackage[
-	dvipdfm,  % hyperref output is specialized for the processing toolchain (we use dvi because it seems to produce smaller files; comment this to use pdflatex)
-	pdfusetitle=true,
-	pdflang={en},
-	pdfborder={0 0 0},
-	pdfcreator={LaTeX 2e},
-	pdfauthor={nautofon},
-]{hyperref}
-% \Ifdvioutput{true branch }{false branch }
-% \Ifpdfoutput{true branch }{false branch }
+% hyperref output is specialized for the processing toolchain
+% (we prefer dvi because it seems to produce smaller files)
+\Ifdvioutput{\RequirePackage[dvipdfm]{hyperref}}{\RequirePackage{hyperref}}
+\hypersetup{pdflang=en}
+\hypersetup{pdfborder=0 0 0}
+\hypersetup{pdfcreator=LaTeX 2e}
+\hypersetup{pdfauthor=nautofon}
 %\RequirePackage[all]{hypcap}
 %\def\UrlFont{\fontfamily{cmvtt}\selectfont}
