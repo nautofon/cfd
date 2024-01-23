@@ -33,8 +33,8 @@
 
 % --------------
 
-%\RequirePackage{datetime}\newcommand*{\themonthandyear}{\newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}\monthyeardate\today}
-\newcommand*{\themonthandyear}{\ifcase\month\or January\or February\or March\or April\or May\or June\or July\or August\or September\or October\or November\or December\fi\ \the\year}
+\RequirePackage{datetime}
+\newcommand*{\themonthandyear}{\newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}\monthyeardate\today}
 
 %\titlehead{\centering Copyright {\small\copyright} 2023. Some rights reserved.}
 \subject{City location descriptions for ATS}
@@ -45,6 +45,15 @@
 % Header style
 \setkomafont{pagehead}{\normalfont\normalcolor\itshape}
 \renewcommand*{\chaptermarkformat}{}  % suppress chapter number in header
+
+\newcommand*{\copyrightblock}{{
+\centering \vspace{30mm} \footnotesize \itshape
+Copyright \raisebox{.2ex}{\scriptsize\copyright} \the\year\ nautofon \par
+\vspace{.4ex}
+\href{https://creativecommons.org/licenses/by-nc-sa/4.0/}{CC BY-NC-SA 4.0} \par
+\vspace{.4ex}
+Typeset in \TeX \par
+}}
 
 % titles for continuing section:
 %\usepackage[topmarks]{titleps} % "topmarks" assures titles for continuing section 
