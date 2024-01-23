@@ -10,16 +10,22 @@
 
 \begin{document}
 
-\input{cfd/frontmatter-preview}
+\include{cfd/frontmatter-preview}
 
-\input{cities/arizona/_all}
-\input{cities/colorado/_all}
-\input{cities/idaho/_all}
-\input{cities/kansas/_all}
-\input{cities/montana/_all}
-\input{cities/oklahoma/_all}
-\input{cities/utah/_all}
-\input{cities/washington/_all}
-\input{cities/wyoming/_all}
+\include{cities/arizona/_all}
+\include{cities/colorado/_all}
+\include{cities/idaho/_all}
+\include{cities/kansas/_all}
+\include{cities/montana/_all}
+\dontinclude{cities/nevada/_all}
+\dontinclude{cities/new_mexico/_all}
+\include{cities/oklahoma/_all}
+\dontinclude{cities/oregon/_all}
+\dontinclude{cities/texas/_all}
+\include{cities/utah/_all}
+\include{cities/washington/_all}
+\include{cities/wyoming/_all}
+
+\dontinclude[input]{cfd/backmatter-single}
 
 \end{document}

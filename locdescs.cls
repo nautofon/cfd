@@ -33,7 +33,7 @@
 
 % --------------
 
-\RequirePackage{datetime}
+\RequirePackage[nodayofweek]{datetime}
 \newcommand*{\themonthandyear}{\newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}\monthyeardate\today}
 
 %\titlehead{\centering Copyright {\small\copyright} 2023. Some rights reserved.}
@@ -47,12 +47,14 @@
 \renewcommand*{\chaptermarkformat}{}  % suppress chapter number in header
 
 \newcommand*{\copyrightblock}{{
-\centering \vspace{30mm} \footnotesize \itshape
+\centering \vspace{24mm} \footnotesize \itshape
 Copyright \raisebox{.2ex}{\scriptsize\copyright} \the\year\ nautofon \par
 \vspace{.4ex}
 \href{https://creativecommons.org/licenses/by-nc-sa/4.0/}{CC BY-NC-SA 4.0} \par
 \vspace{.4ex}
 Typeset in \TeX \par
+\vspace{5mm}
+This file was generated on \today. \par
 }}
 
 % titles for continuing section:
@@ -193,6 +195,18 @@ exit~#1/#2%
 % Allow for wide page numbers in toc (for section entries)
 \makeatletter
 \renewcommand*{\@pnumwidth}{3.5em}
+\makeatother
+
+% Command to include a file if, and only if, \includeonly was used,
+% irrespective of the list of files actually given to \includeonly.
+% The purpose is to exclude a chapter file from the full document,
+% but still have it available for single-chapter runs.
+\makeatletter
+\newcommand*{\dontinclude}[2][]{% #1 = "input" (to optionally ignore \includeonly restrictions), #2 = filename
+\if@partsw
+\ifthenelse{\equal{#1}{input}}{\clearpage\input{#2}}{\include{#2}}
+\fi
+}
 \makeatother
 
 
