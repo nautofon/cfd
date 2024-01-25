@@ -1,0 +1,46 @@
+---
+name: Typeset and publish latest
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  typeset:
+    uses: ./.github/workflows/typeset.yml
+  publish:
+    needs: typeset
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get PDF files
+        uses: actions/download-artifact@v4
+        with:
+          name: PDF
+          path: .
+      - name: Bundle state chapter files
+        run: |
+          datename=$( perl -MTime::Piece -e 'print gmtime->strftime("cfd-%y%m%d")' )
+          for f in $baseoutname-*.pdf ; do
+            cp -v "$f" "$datename-${f#$baseoutname-}"
+          done
+          zip --move --test -9 $baseoutname.zip $datename-*.pdf
+        env:
+          baseoutname: ${{ needs.typeset.outputs.baseoutname }}
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

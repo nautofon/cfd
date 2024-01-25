@@ -1,0 +1,57 @@
+---
+name: Typeset
+
+on:
+  workflow_dispatch:
+  workflow_call:
+    outputs:
+      baseoutname:
+        value: ${{ jobs.typeset.outputs.baseoutname }}
+  push:
+    branches-ignore:
+      - 'main'
+  pull_request:
+    branches:
+      - '**'
+
+jobs:
+  typeset:
+    runs-on: ubuntu-latest
+    outputs:
+      baseoutname: ${{ steps.prepare.outputs.baseoutname }}
+    steps:
+      - name: git checkout
+        uses: actions/checkout@v4
+      - name: Prepare
+        id: prepare
+        run: |
+          baseoutname="cfd-latest-preview"
+          echo "baseoutname=$baseoutname" >> "$GITHUB_OUTPUT"
+          for f in cities/*/_all.tex ; do
+            code=$( perl -ne 'print lc $1 if /^\\ChapterForState\{(..)\}/' "$f" )
+            statefile="$baseoutname-$code.tex"
+            echo "\includeonly{${f%.tex}} \input{locdescs}" > $statefile
+            echo "Created $statefile with \includeonly{${f%.tex}}"
+          done
+          tee latexmkrc <<'END'
+            $dvipdf = 'dvipdfm %O -o %D %S';
+          END
+      - name: Compile LaTeX documents
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: |
+            locdescs.tex
+            ${{ steps.prepare.outputs.baseoutname }}-*.tex
+          continue_on_error: true
+          args: '-pdfdvi -file-line-error -interaction=nonstopmode'
+      - name: Tidy
+        run: |
+          mv -v locdescs.pdf "$baseoutname.pdf"
+        env:
+          baseoutname: ${{ steps.prepare.outputs.baseoutname }}
+      - name: Store PDF files
+        uses: actions/upload-artifact@v4
+        with:
+          name: PDF
+          path: '*.pdf'
+          retention-days: 1

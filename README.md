@@ -15,6 +15,39 @@ https://forum.scssoft.com/viewtopic.php?t=317942
 
 This map shows the completion state of city location descriptions in the C/FD.
 
+### Download
+
+Please see the [C/FD discussion thread](https://forum.scssoft.com/viewtopic.php?t=317942)
+on the SCS forum for the most recent official preview release.
+Preview releases are also available from the
+[Releases](https://github.com/nautofon/cfd/releases) section on GitHub.
+New preview releases may be expected several times a year.
+
+As a potentially more up-to-date alternative, the following files are automatically generated after every change:
+
+* The Company/Facility Directory:  
+    [cfd-latest-preview.pdf](https://nautofon.github.io/cfd/cfd-latest-preview.pdf)
+    — as single PDF (completed states only)  
+    [cfd-latest-preview.zip](https://nautofon.github.io/cfd/cfd-latest-preview.zip)
+    — ZIP file containing separate PDFs for each state
+
+* PDF files for each U.S. state to download individually:  
+    [AZ](https://nautofon.github.io/cfd/cfd-latest-preview-az.pdf)
+    · [CO](https://nautofon.github.io/cfd/cfd-latest-preview-co.pdf)
+    · [ID](https://nautofon.github.io/cfd/cfd-latest-preview-id.pdf)
+    · [KS](https://nautofon.github.io/cfd/cfd-latest-preview-ks.pdf)
+    · [MT](https://nautofon.github.io/cfd/cfd-latest-preview-mt.pdf)
+    · [NV](https://nautofon.github.io/cfd/cfd-latest-preview-nv.pdf)
+    · [NM](https://nautofon.github.io/cfd/cfd-latest-preview-nm.pdf)
+    · [OK](https://nautofon.github.io/cfd/cfd-latest-preview-ok.pdf)
+    · [OR](https://nautofon.github.io/cfd/cfd-latest-preview-or.pdf)
+    · [TX](https://nautofon.github.io/cfd/cfd-latest-preview-tx.pdf)
+    · [UT](https://nautofon.github.io/cfd/cfd-latest-preview-ut.pdf)
+    · [WA](https://nautofon.github.io/cfd/cfd-latest-preview-wa.pdf)
+    · [WY](https://nautofon.github.io/cfd/cfd-latest-preview-wy.pdf)
+
+[![Typeset and publish latest](https://github.com/nautofon/cfd/actions/workflows/publish.yml/badge.svg)](https://github.com/nautofon/cfd/actions/workflows/publish.yml)
+
 ### License
 
 Copyright © 2023 nautofon
