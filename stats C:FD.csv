@@ -159,7 +159,7 @@ Texas,Lubbock,lubbock,,14,16,,55,,,,wiki
 Texas,Lufkin,lufkin,all,10,12,12,40,50,2023-11,1.49,
 Texas,McAllen,mcallen,all,5,7,8,25,20,2023-11,1.49,
 Texas,Odessa,odessa,,12,14,,50,,,,wiki
-Texas,San Angelo,san_angelo,,6,8,,25,,,,
+Texas,San Angelo,san_angelo,cleanup,6,8,8,25,25,2024-01,,IRL map
 Texas,San Antonio,san_antonio,all,14,16,16,55,90,2023-07,1.48,
 Texas,Texarkana,texarkana,all,3,5,6,15,20,2023-09,1.48,
 Texas,Tyler,tyler,all,8,10,10,35,35,2023-10,1.48,
