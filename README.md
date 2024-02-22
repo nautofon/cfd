@@ -50,7 +50,7 @@ As a potentially more up-to-date alternative, the following files are automatica
 
 ### License
 
-Copyright © 2023 nautofon
+Copyright © 2024 nautofon
 
 [![CC By-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -58,12 +58,7 @@ This work is available under a [Creative Commons Attribution-NonCommercial-Share
 
 For the avoidance of doubt: Since ATS itself is a commercial product,
 the definition of "non-commercial" should in this case be understood
-to exclude profits made by the creators of ATS.
-<!--
-In other words, if you adapting or sharing the C/FD somehow contributes
-to more people buying ATS from SCS Software, that would *not* be a
-violation of the license under these circumstances.
--->
+to *not* impose any restrictions on the creators of ATS.
 
 Should you adapt or share this work, I'd appreciate if you let me know
 about it. Please get in touch with me
