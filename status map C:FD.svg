@@ -267,7 +267,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="junction" transform="translate(439.6 346.67)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="laredo" transform="translate(444.21 407.51)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="longview_tx" transform="translate(525.7 301.12)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="lubbock" transform="translate(409.73 282.32)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="lubbock" transform="translate(409.73 282.32)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="lufkin" transform="translate(525.52 326.75)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="mcallen" transform="translate(462.09 428.34)"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="odessa" transform="translate(399.4 316.8)"/>
