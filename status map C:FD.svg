@@ -249,7 +249,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#open" width="8.5" height="8.5" id="the_dalles" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 88.833 92.833)" style="overflow:visible;"/>
 	</g>
 	<g id="TX" transform="translate(-63.713 95.304)">
-		<use xlink:href="#open" width="8.5" height="8.5" id="abilene" transform="translate(444.21 306.1)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="abilene" transform="translate(444.21 306.1)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="amarillo" transform="translate(411.39 249.13)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="austin" transform="translate(475 349.06)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="beaumont" transform="translate(539.53 353.12)"/>
