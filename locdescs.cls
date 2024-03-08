@@ -262,6 +262,7 @@ exit~#1/#2%
 \newcommand*{\TruckDealer}{truck dealer }
 \newcommand*{\TruckStop}{Truck stop }
 \newcommand*{\TruckService}{Truck service }
+\newcommand*{\TruckWash}{Truck wash }
 \newcommand*{\UndergroundTank}{underground tank }
 
 
