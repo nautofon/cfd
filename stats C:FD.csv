@@ -143,7 +143,7 @@ Texas,Austin,austin,all,10,12,13,45,,2022-12,1.46,
 Texas,Beaumont,beaumont,all,8,10,11,40,65,2023-07,1.48,
 Texas,Brownsville,brownsville,all,9,11,11,40,30,2023-11,1.49,
 Texas,Corpus Christi,corpus_chris,all,12,14,15,50,50,2023-01,1.46,
-Texas,Dalhart,dalhart,,5,7,,25,,,,wiki
+Texas,Dalhart,dalhart,all,5,7,6,25,30,2024-03,1.49,
 Texas,Dallas,dallas,all,12,14,14,45,70,2023-11,1.49,
 Texas,Del Rio,del_rio,all,7,9,9,30,30,2023-02,1.46,
 Texas,El Paso,el_paso,all,7,9,8,30,35,2024-01,1.49,
