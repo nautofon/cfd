@@ -197,7 +197,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="albuquerque" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 268.25 344.0381)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="artesia" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 304.6665 393.873)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="carlsbad_nm" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 310.0835 402.79)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="clovis" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 323.6665 363.7891)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="clovis" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 323.6665 363.7891)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="farmington" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 249.916 306.5381)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="gallup" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 238.2495 329.8721)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="hobbs" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 321.25 396.123)" style="overflow:visible;"/>
