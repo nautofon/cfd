@@ -205,7 +205,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="raton" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 310.083 313.9551)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="roswell" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 303.75 381.7891)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="santa_fe" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 285.9995 331.9551)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="socorro" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 264.6665 362.7051)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="socorro" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 264.6665 362.7051)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="tucumcari" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 319.75 346.6221)" style="overflow:visible;"/>
 	</g>
 	<g id="NV">
