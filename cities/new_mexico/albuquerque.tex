@@ -1,61 +1,77 @@
-
 \City{Albuquerque}
 
 \begin{LocationList}
 
 \Location{42 Print}
-East of 12th Street in southwest Albuquerque. Use \I{40} \Exit{157}.
+East of 12th~St in southwest Albuquerque.
+Use \I{40} \Exit{157}.
 
 \Location{ABQ Cargo Center}
-At the airport cargo terminal in southeast Albuquerque. Use \I{25} \Exit{220}.
+At the airport cargo terminal in southeast Albuquerque.
+Use \I{25} \Exit{220}.
 
 \Location{Bitumen}
-South of Montaño Street in northwest Albuquerque. Use \I{25} \Exit{228}.
+South of Monta\~no~St in northwest Albuquerque.
+Use \I{25} \Exit{228}.
 
 \Location{Charged}
-Just northwest of \I{25} \Exit{228}, in northern Albuquerque.
+Just northwest of \I{25} \Exit{228}, in north Albuquerque.
 
 \Location{\GarageHQ \Garage}
-North of Montaño Street in northwest Albuquerque. Use \I{25} \Exit{228}.
+North of Monta\~no~St in northwest Albuquerque.
+Use \I{25} \Exit{228}.
 
 \Location{Global Mills}
-North of Montaño Street in northwest Albuquerque. Use \I{25} \Exit{228}.
+North of Monta\~no~St in northwest Albuquerque.
+Use \I{25} \Exit{228}.
 
 \Location{HMS Machinery}
-West of 12th Street in southwest Albuquerque. Use \I{40} \Exit{157}.
+West of 12th~St in southwest Albuquerque.
+Use \I{40} \Exit{157}.
 
 \Location{NAMIQ}
-Just south of the airport, off \I{25} \Exit{220} to the southeast.
+Just south of the airport in southeast Albuquerque.
+Use \I{25} \Exit{220}.
 
 \Location{Peterbilt \TruckDealer \Dealer \Rest \Service}
-West of 12th Street in southwest Albuquerque. Use \I{40} \Exit{157}.
+West of 12th~St in southwest Albuquerque.
+Use \I{40} \Exit{157}.
 
 \Location{Rail Export}
-North of Rio Bravo Boulevard in southwest Albuquerque. Use \I{25} \Exit{220}.
+North of Rio Bravo~Blvd in southwest Albuquerque.
+Use \I{25} \Exit{220}.
 
 \Location{Tidbit}
-East of Louisiana Boulevard in northeast Albuquerque. Use \I{40} \Exit{162}.
+East of Louisiana~Blvd in northeast Albuquerque.
+Use \I{40} \Exit{162}.
 
 \Location{\TruckStop \Gas \Rest}
-Off Montgomery Boulevard in northeast Albuquerque. Use \I{25} \Exit{228} or frontage roads.
+Off Montgomery~Blvd in northeast Albuquerque.
+Use \I{25} \Exit{228} or frontage roads.
 
 \Location{Ultimus}
-On the tarmac at the airport cargo terminal in southeast Albuquerque. Use \I{25} \Exit{220}.
+On the tarmac at the airport cargo terminal in southeast Albuquerque.
+Use \I{25} \Exit{220}.
 
 \Location{Voltison Motors car dealer}
-South of Montaño Street in northwest Albuquerque. Use \I{25} \Exit{228}.
+South of Monta\~no~St in northwest Albuquerque.
+Use \I{25} \Exit{228}.
 
 \Location{Voltison Motors warehouse}
-By 12th Street in southwest Albuquerque. Use \I{40} \Exit{157}.
+By 12th~St in southwest Albuquerque.
+Use \I{40} \Exit{157}.
 
-\Location{Wallbert}
-North of Montaño Street in northwest Albuquerque. Use \I{25} \Exit{228}. The non-food warehouse is opposite the garage, the food warehouse to the northeast of it.
+\Location{Wallbert \Multiple}
+North of Monta\~no~St in northwest Albuquerque. Use \I{25} \Exit{228}.
+The non-food warehouse is opposite the garage, the food warehouse to the northeast of it.
 
 \end{LocationList}
 
 
-
-% fix:
-% ascii-fy "ñ" in Montaño St
-% also consider output: the ñ is not parseable as such in the PDF unless T1 font encoding is used; see:
-% https://tex.stackexchange.com/a/84382
+% The two engines we're currently targeting, latex and pdflatex, don't support
+% Unicode output. So we might just as well use the ASCII expression \~n rather
+% than its Unicode equivalent (event though utf8 inputenc is the default
+% nowadays).
+% Switching to lualatex or xelatex would likely allow Unicode output, which
+% might be desireable because the tilde-n could then actually be copied onto
+% the clipboard or be used in searches.
