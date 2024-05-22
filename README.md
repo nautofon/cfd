@@ -37,6 +37,7 @@ As a potentially more up-to-date alternative, the following files are automatica
     · [ID](https://nautofon.github.io/cfd/cfd-latest-preview-id.pdf)
     · [KS](https://nautofon.github.io/cfd/cfd-latest-preview-ks.pdf)
     · [MT](https://nautofon.github.io/cfd/cfd-latest-preview-mt.pdf)
+    · [NE](https://nautofon.github.io/cfd/cfd-latest-preview-ne.pdf)
     · [NV](https://nautofon.github.io/cfd/cfd-latest-preview-nv.pdf)
     · [NM](https://nautofon.github.io/cfd/cfd-latest-preview-nm.pdf)
     · [OK](https://nautofon.github.io/cfd/cfd-latest-preview-ok.pdf)
