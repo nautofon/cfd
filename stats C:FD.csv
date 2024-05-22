@@ -20,20 +20,21 @@ California,Barstow,barstow,,6,8,,25,,,,
 California,Carlsbad,carlsbad,,4,6,,20,,,,
 California,El Centro,el_centro,,2,4,,10,,,,
 California,Eureka,eureka,,6,8,,25,,,,
-California,Fresno,fresno,,10,12,,40,,,,
+California,Fresno,fresno,,13,15,,50,,,,
 California,Hilt,hilt,,2,4,,10,,,,
-California,Huron,huron,,2,4,,10,,,,
+California,Huron,huron,,7,9,,30,,,,
 California,Los Angeles,los_angeles,,13,15,,50,,,,
-California,Oakdale,oakdale,,2,4,,10,,,,
-California,Oakland,oakland,,4,6,,20,,,,
+California,Modesto,modesto,,12,14,,50,,,,
+California,Oakland,oakland,,8,10,,35,,,,
 California,Oxnard,oxnard,,10,12,,40,,,,
 California,Redding,redding,,13,15,,50,,,,
 California,Sacramento,sacramento,,11,13,,45,,,,
 California,San Diego,san_diego,,7,9,,30,,,,
-California,San Francisco,san_francisc,,6,8,,25,,,,
-California,Santa Cruz,santa_cruz,,7,9,,30,,,,
+California,San Francisco,san_francisc,,8,10,,35,,,,
+California,San Jose,san_jose,,10,12,,40,,,,
+California,Santa Cruz,santa_cruz,,6,8,,25,,,,
 California,Santa Maria,santa_maria,,6,8,,25,,,,
-California,Stockton,stockton,,5,7,,25,,,,
+California,Stockton,stockton,,11,13,,45,,,,
 California,Truckee,truckee,,7,9,,30,,,,
 California,Ukiah,ukiah,,3,5,,15,,,,
 Colorado,Alamosa,alamosa,all,8,10,11,40,20,2023-03,1.46,
@@ -60,16 +61,16 @@ Idaho,Pocatello,pocatello,all,6,8,7,25,25,2022-11,1.46,
 Idaho,Salmon,salmon,all,5,7,7,25,15,2022-11,1.46,
 Idaho,Sandpoint,sandpoint,all,8,10,8,25,35,2022-11,1.46,
 Idaho,Twin Falls,twin_falls,all,8,10,11,40,40,2022-11,1.46,
-Kansas,Colby,colby,cleanup,9,11,9,40,15,2023-12,,IRL map
+Kansas,Colby,colby,cleanup,9,11,9,30,15,2023-12,,IRL map
 Kansas,Dodge City,dodge_city,cleanup,10,12,11,40,25,2023-12,,IRL map
-Kansas,Emporia,emporia,cleanup,11,13,11,45,35,2023-12,,IRL map
-Kansas,Garden City,garden_city,cleanup,8,10,9,35,25,2023-12,,IRL map
-Kansas,Hays,hays,cleanup,12,14,16,50,30,2023-12,,IRL map
-Kansas,Hutchinson,hutchinson,cleanup,9,11,10,40,35,2023-12,,IRL map
-Kansas,Junction City,junction_cty,cleanup,9,11,9,40,30,2023-12,,IRL map
-Kansas,Kansas City,kansas_ci_ks,cleanup,8,10,9,35,50,2023-12,,IRL map
-Kansas,Marysville,marysville,cleanup,4,6,5,20,15,2023-12,,IRL map
-Kansas,Phillipsburg,phillipsburg,cleanup,4,6,5,20,10,2023-12,,IRL map
+Kansas,Emporia,emporia,cleanup,11,13,11,40,35,2023-12,,IRL map
+Kansas,Garden City,garden_city,cleanup,8,10,9,30,25,2023-12,,IRL map
+Kansas,Hays,hays,cleanup,12,14,16,55,30,2023-12,,IRL map
+Kansas,Hutchinson,hutchinson,cleanup,9,11,10,35,35,2023-12,,IRL map
+Kansas,Junction City,junction_cty,cleanup,9,11,9,30,30,2023-12,,IRL map
+Kansas,Kansas City,kansas_ci_ks,cleanup,8,10,9,30,50,2023-12,,IRL map
+Kansas,Marysville,marysville,cleanup,4,6,5,15,15,2023-12,,IRL map
+Kansas,Phillipsburg,phillipsburg,cleanup,4,6,5,15,10,2023-12,,IRL map
 Kansas,Pittsburg,pittsburg,all,10,12,11,40,40,2024-01,1.49,
 Kansas,Salina,salina_ks,cleanup,10,12,12,40,30,2023-12,,IRL map
 Kansas,Topeka,topeka,cleanup,10,12,13,45,30,2023-12,,IRL map
@@ -101,15 +102,15 @@ Nevada,Tonopah,tonopah,,2,4,,10,,,,
 Nevada,Winnemucca,winnemucca,,4,6,,20,,,,
 New Mexico,Alamogordo,alamogordo,all,4,6,5,15,15,2022-11,1.46,
 New Mexico,Albuquerque,albuquerque,all,15,17,16,55,60,2022-12,1.46,
-New Mexico,Artesia,artesia,all,4,6,7,20,15,2024-03,1.49,
-New Mexico,Carlsbad,carlsbad_nm,all,4,6,7,20,20,2024-03,1.49,
-New Mexico,Clovis,clovis,all,5,7,6,25,35,2024-03,1.49,
+New Mexico,Artesia,artesia,all,4,6,7,25,15,2024-03,1.49,
+New Mexico,Carlsbad,carlsbad_nm,all,4,6,7,25,20,2024-03,1.49,
+New Mexico,Clovis,clovis,all,5,7,6,20,35,2024-03,1.49,
 New Mexico,Farmington,farmington,all,5,7,8,25,,2020-06,1.37,
 New Mexico,Gallup,gallup,all,6,8,7,25,30,2024-04,1.49,
-New Mexico,Hobbs,hobbs,all,5,7,6,25,25,2024-02,1.49,
-New Mexico,Las Cruces,las_cruces,all,7,9,8,30,30,2024-03,1.49,
+New Mexico,Hobbs,hobbs,all,5,7,6,20,25,2024-02,1.49,
+New Mexico,Las Cruces,las_cruces,all,7,9,8,25,30,2024-03,1.49,
 New Mexico,Raton,raton,all,7,9,7,25,20,2022-12,1.46,
-New Mexico,Roswell,roswell,all,5,7,10,25,20,2024-03,1.49,
+New Mexico,Roswell,roswell,all,5,7,10,35,20,2024-03,1.49,
 New Mexico,Santa Fe,santa_fe,all,9,11,11,40,55,2024-04,1.49,
 New Mexico,Socorro,socorro,all,6,8,8,25,20,2024-04,1.49,
 New Mexico,Tucumcari,tucumcari,all,5,7,6,20,25,2022-11,1.46,
@@ -118,7 +119,7 @@ Oklahoma,Clinton,clinton,all,7,9,7,25,25,2023-08,1.48,
 Oklahoma,Enid,enid,all,10,12,13,45,50,2023-09,1.48,
 Oklahoma,Guymon,guymon,all,10,12,12,40,45,2023-10,1.48,
 Oklahoma,Idabel,idabel,all,6,8,7,25,30,2023-08,1.48,
-Oklahoma,Lawton,lawton,all,8,10,11,35,60,2023-10,1.48,
+Oklahoma,Lawton,lawton,all,8,10,11,40,60,2023-10,1.48,
 Oklahoma,McAlester,mcalester,all,9,11,11,40,40,2023-08,1.48,
 Oklahoma,Oklahoma City,oklahoma_cit,all,11,13,14,50,60,2023-09,1.48,
 Oklahoma,Tulsa,tulsa,all,11,13,11,40,50,2023-08,1.48,
@@ -143,30 +144,30 @@ Texas,Austin,austin,all,10,12,13,45,,2022-12,1.46,
 Texas,Beaumont,beaumont,all,8,10,11,40,65,2023-07,1.48,
 Texas,Brownsville,brownsville,all,9,11,11,40,30,2023-11,1.49,
 Texas,Corpus Christi,corpus_chris,all,12,14,15,50,50,2023-01,1.46,
-Texas,Dalhart,dalhart,all,5,7,6,25,30,2024-03,1.49,
-Texas,Dallas,dallas,all,12,14,14,45,70,2023-11,1.49,
+Texas,Dalhart,dalhart,all,5,7,6,20,30,2024-03,1.49,
+Texas,Dallas,dallas,all,11,13,14,50,70,2023-11,1.49,
 Texas,Del Rio,del_rio,all,7,9,9,30,30,2023-02,1.46,
-Texas,El Paso,el_paso,all,7,9,8,30,35,2024-01,1.49,
-Texas,Fort Stockton,fort_stockto,cleanup,8,10,9,35,20,2024-02,,IRL map
-Texas,Fort Worth,fort_worth,all,11,13,10,45,50,2023-11,1.49,
+Texas,El Paso,el_paso,all,7,9,8,25,35,2024-01,1.49,
+Texas,Fort Stockton,fort_stockto,cleanup,8,10,9,30,20,2024-02,,IRL map
+Texas,Fort Worth,fort_worth,all,11,13,10,35,50,2023-11,1.49,
 Texas,Galveston,galveston,all,4,6,6,20,25,2022-12,1.46,
 Texas,Houston,houston,all,8,10,12,40,65,2023-06,1.48,
 Texas,Huntsville,huntsville,all,7,9,9,30,55,2023-11,1.49,
 Texas,Junction,junction,all,7,9,9,30,30,2024-01,1.49,
 Texas,Laredo,laredo,all,9,11,12,40,40,2023-07,1.48,
 Texas,Longview,longview_tx,all,11,13,13,45,60,2023-02,1.46,
-Texas,Lubbock,lubbock,all,14,16,14,55,65,2024-02,1.49,
+Texas,Lubbock,lubbock,all,14,16,14,50,65,2024-02,1.49,
 Texas,Lufkin,lufkin,all,10,12,12,40,50,2023-11,1.49,
 Texas,McAllen,mcallen,all,5,7,8,25,20,2023-11,1.49,
 Texas,Odessa,odessa,cleanup,12,14,14,50,50,2024-02,,IRL map
 Texas,San Angelo,san_angelo,cleanup,6,8,8,25,25,2024-01,,IRL map
 Texas,San Antonio,san_antonio,all,14,16,16,55,90,2023-07,1.48,
-Texas,Texarkana,texarkana,all,3,5,6,15,20,2023-09,1.48,
+Texas,Texarkana,texarkana,all,3,5,6,20,20,2023-09,1.48,
 Texas,Tyler,tyler,all,8,10,10,35,35,2023-10,1.48,
 Texas,Van Horn,van_horn,cleanup,6,8,7,25,15,2024-01,,IRL map
 Texas,Victoria,victoria,all,11,13,13,45,65,2023-02,1.46,
 Texas,Waco,waco,all,10,12,11,40,50,2023-11,1.49,
-Texas,Wichita Falls,wichita_fall,all,7,9,7,30,45,2024-03,1.49,
+Texas,Wichita Falls,wichita_fall,all,7,9,7,25,45,2024-03,1.49,
 Utah,Cedar City,cedar_city,all,7,9,7,25,25,2023-05,1.47,
 Utah,Logan,logan,all,6,8,7,25,25,2023-02,1.46,
 Utah,Moab,moab,all,8,10,12,40,40,2023-05,1.47,
