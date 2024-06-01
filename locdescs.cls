@@ -431,11 +431,13 @@ exit~#1/#2%
 
 \NewDocumentCommand{\NE}{ O{} m O{} }{%
 \ifthenelse{\NOT \isempty{#3}}{\shieldUndef{NE #1 #2 #3}}{%
+\ifthenelse{\equal{#1}{Link}}{\shieldNEL{#2}}{%
 \ifthenelse{\NOT \isempty{#1}}{\shieldUndef{NE #1 #2}}{%
-\shieldNE{#2}%
-}}}
+\shieldNEH{#2}%
+}}}}
 
-\newcommand*{\shieldNE}[1]{\shieldState{N}[-]{#1}}
+\newcommand*{\shieldNEH}[1]{\shieldState{N}[-]{#1}}
+\newcommand*{\shieldNEL}[1]{\shieldMinor{L}[-]{#1}}
 
 
 
