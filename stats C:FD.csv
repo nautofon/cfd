@@ -69,8 +69,8 @@ Kansas,Hays,hays,cleanup,12,14,16,55,30,2023-12,,IRL map
 Kansas,Hutchinson,hutchinson,cleanup,9,11,10,35,35,2023-12,,IRL map
 Kansas,Junction City,junction_cty,cleanup,9,11,9,30,30,2023-12,,IRL map
 Kansas,Kansas City,kansas_ci_ks,cleanup,8,10,9,30,50,2023-12,,IRL map
-Kansas,Marysville,marysville,cleanup,4,6,5,15,15,2023-12,,IRL map
-Kansas,Phillipsburg,phillipsburg,cleanup,4,6,5,15,10,2023-12,,IRL map
+Kansas,Marysville,marysville,all,4,6,5,15,20,2024-06,1.50,
+Kansas,Phillipsburg,phillipsburg,all,4,6,5,15,15,2024-06,1.50,
 Kansas,Pittsburg,pittsburg,all,10,12,11,40,40,2024-01,1.49,
 Kansas,Salina,salina_ks,cleanup,10,12,12,40,30,2023-12,,IRL map
 Kansas,Topeka,topeka,cleanup,10,12,13,45,30,2023-12,,IRL map

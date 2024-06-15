@@ -169,8 +169,8 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="hutchinson" transform="translate(408.71 286.55)"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="junction_cit" transform="translate(427.03 266.87)"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="kansas_city" transform="translate(458.8 269.14)"/>
-		<use xlink:href="#cleanup" width="8.5" height="8.5" id="marysville" transform="translate(433.43 254.13)"/>
-		<use xlink:href="#cleanup" width="8.5" height="8.5" id="phillipsburg" transform="translate(389.76 253.16)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="marysville" transform="translate(433.43 254.13)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="phillipsburg" transform="translate(389.76 253.16)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="pittsburg" transform="translate(459.91 299.64)"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="salina_ks" transform="translate(416.65 274.57)"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="topeka" transform="translate(443.85 268.92)"/>
