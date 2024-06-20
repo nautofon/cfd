@@ -194,7 +194,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="thompson_f" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 185.9985 69.8345)" style="overflow:visible;"/>
 	</g>
 	<g id="NE" transform="translate(-27.097 -127.5)">
-		<use xlink:href="#open" width="8.5" height="8.5" id="alliance" transform="translate(367.3 329.3)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="alliance" transform="translate(367.3 329.3)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="chadron" transform="translate(365.2 316.8)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="columbus" transform="translate(448.8 347.5)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="grand_island" transform="translate(433.6 356.1)"/>
