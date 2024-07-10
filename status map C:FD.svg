@@ -201,7 +201,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="lincoln" transform="translate(457.4 359.9)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="mccook" transform="translate(399.0 368.0)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="norfolk" transform="translate(448.5 334.8)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="north_platte" transform="translate(398.3 350.2)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="north_platte" transform="translate(398.3 350.2)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="omaha" transform="translate(466.0 352.4)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="scottsbluff" transform="translate(355.3 334.3)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="sidney_ne" transform="translate(365.3 346.1)"/>
