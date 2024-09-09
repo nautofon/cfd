@@ -125,8 +125,8 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="sacramento" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 45.124 222.2095)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="san_diego" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 92.3325 357.668)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="san_francisc" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 33.6 236.5)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="san_jose" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 37.7 249.6)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="santa_cruz" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 34.5 259.2)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="san_jose" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 37.7 249.6)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="santa_cruz" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 34.5 259.2)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="santa_maria" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 45.6245 304.75)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="stockton" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 53.1 238.1)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="truckee" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 63.9995 213)" style="overflow:visible;"/>
