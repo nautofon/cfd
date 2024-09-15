@@ -118,7 +118,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#open" width="8.5" height="8.5" id="hilt" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 49.9165 160.5835)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="huron" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 55.2 279.1)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="los_angeles" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 75.6235 333.668)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="modesto" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 56.9 252.3)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="modesto" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 56.9 252.3)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="oakland" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 42.2 240.8)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="oxnard" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 64.1675 320.292)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="redding" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 47.4995 180.5)" style="overflow:visible;"/>
