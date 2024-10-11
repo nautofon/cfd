@@ -353,6 +353,18 @@ exit~#1/#2%
 
 
 
+% Arkansas
+
+\NewDocumentCommand{\AR}{ O{} m O{} }{%
+\ifthenelse{\NOT \isempty{#3}}{\shieldUndef{AR #1 #2 #3}}{%
+\ifthenelse{\NOT \isempty{#1}}{\shieldUndef{AR #1 #2}}{%
+\shieldARH{#2}%
+}}}
+
+\newcommand*{\shieldARH}[1]{\shieldState{AR}{#1}}
+
+
+
 % Arizona
 
 \NewDocumentCommand{\AZ}{ O{} m O{} }{%
