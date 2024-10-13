@@ -33,6 +33,7 @@ As a potentially more up-to-date alternative, the following files are automatica
 
 * PDF files for each U.S. state to download individually:  
     [AZ](https://nautofon.github.io/cfd/cfd-latest-preview-az.pdf)
+    · [AR](https://nautofon.github.io/cfd/cfd-latest-preview-ar.pdf)
     · [CA](https://nautofon.github.io/cfd/cfd-latest-preview-ca.pdf)
     · [CO](https://nautofon.github.io/cfd/cfd-latest-preview-co.pdf)
     · [ID](https://nautofon.github.io/cfd/cfd-latest-preview-id.pdf)
