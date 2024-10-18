@@ -151,7 +151,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="santa_cruz" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 34.5 259.2)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="santa_maria" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 45.6245 304.75)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="stockton" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 53.1 238.1)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="truckee" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 63.9995 213)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="truckee" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 63.9995 213)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="ukiah" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 25.9995 205.25)" style="overflow:visible;"/>
 	</g>
 	<g id="CO">
