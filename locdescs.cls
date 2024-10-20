@@ -249,7 +249,7 @@ exit~#1/#2%
 \makeatother
 
 \NewDocumentCommand{\CityDisclaimer}{ m O{$\ast$} }{% #1 = reason, #2 = footnote
-{\ifthenelse{\equal{#1}{ATS IRL Map}}%
+{\ifthenelse{\equal{#1}{ATS IRL Map} \OR \equal{#1}{Directions Oregon}}%
 {\textsl{The location descriptions for \ThisCity\ have not yet been field checked in ATS by the author.\textsuperscript{\scriptsize #2} Use with caution.}}%
 {\ClassError{locdescs}{CityDisclaimer reason '#1' unsupported}{}}%
 }}

@@ -147,19 +147,19 @@ Oklahoma,Oklahoma City,oklahoma_cit,all,13,15,16,50,70,2024-08,1.51,
 Oklahoma,Tulsa,tulsa,all,11,13,11,40,50,2023-08,1.48,
 Oklahoma,Woodward,woodward,all,8,10,10,35,25,2023-08,1.48,
 Oregon,Astoria,astoria,all,7,9,9,30,40,2023-01,1.46,
-Oregon,Bend,bend,,9,11,,40,,,,
-Oregon,Burns,burns,,5,7,,25,,,,
-Oregon,Coos Bay,coos_bay,,7,9,,30,,,,
-Oregon,Eugene,eugene,,8,10,,35,,,,
+Oregon,Bend,bend,cleanup,9,11,11,40,25,2019,,Dirs OR
+Oregon,Burns,burns,cleanup,5,7,6,25,10,2019,,Dirs OR
+Oregon,Coos Bay,coos_bay,cleanup,7,9,8,30,10,2019,,Dirs OR
+Oregon,Eugene,eugene,cleanup,8,10,12,35,10,2019,,Dirs OR
 Oregon,Klamath Falls,klamath_f,all,3,5,4,10,15,2022-12,1.46,
-Oregon,Lakeview,lakeview,,5,7,,25,,,,
-Oregon,Medford,medford,,11,13,,45,,,,
-Oregon,Newport,newport,,8,10,,35,,,,
+Oregon,Lakeview,lakeview,cleanup,5,7,6,25,10,2019,,Dirs OR
+Oregon,Medford,medford,cleanup,11,13,12,45,25,2019,,Dirs OR
+Oregon,Newport,newport,cleanup,8,10,11,35,10,2019,,Dirs OR
 Oregon,Ontario,ontario,all,9,11,12,40,35,2022-12,1.46,
 Oregon,Pendleton,pendleton,all,6,8,8,25,25,2023-02,1.46,
 Oregon,Portland,portland,all,10,12,11,40,45,2022-12,1.46,
-Oregon,Salem,salem,,7,9,,30,,,,
-Oregon,The Dalles,the_dalles,,6,8,,25,,,,
+Oregon,Salem,salem,cleanup,7,9,11,30,10,2019,,Dirs OR
+Oregon,The Dalles,the_dalles,cleanup,6,8,7,25,10,2019,,Dirs OR
 Texas,Abilene,abilene,all,10,12,11,40,40,2024-02,1.49,
 Texas,Amarillo,amarillo,all,13,15,14,50,70,2024-03,1.49,
 Texas,Austin,austin,all,10,12,13,45,,2022-12,1.46,
