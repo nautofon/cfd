@@ -105,7 +105,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#open" width="8.5" height="8.5" id="fayetteville" transform="translate(376.4 322.9)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="fort_smith" transform="translate(374.7 334.1)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="harrison" transform="translate(395.6 313.6)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="hot_springs" transform="translate(390.6 346.1)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="hot_springs" transform="translate(390.6 346.1)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="jonesboro" transform="translate(428.6 320.1)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="little_rock" transform="translate(406.1 338.6)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="pine_bluff" transform="translate(416.0 352.3)"/>
