@@ -102,7 +102,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 <g id="data">
 	<g id="AR" transform="translate(101.87 11.382)">
 		<use xlink:href="#all" width="8.5" height="8.5" id="el_dorado" transform="translate(401.8 371.4)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="fayetteville" transform="translate(376.4 322.9)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="fayetteville" transform="translate(376.4 322.9)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="fort_smith" transform="translate(374.7 334.1)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="harrison" transform="translate(395.6 313.6)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="hot_springs" transform="translate(390.6 346.1)"/>

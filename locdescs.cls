@@ -356,12 +356,14 @@ exit~#1/#2%
 % Arkansas
 
 \NewDocumentCommand{\AR}{ O{} m O{} }{%
+\ifthenelse{\equal{#3}{Spur}}{\shieldARS{#2}}{%
 \ifthenelse{\NOT \isempty{#3}}{\shieldUndef{AR #1 #2 #3}}{%
 \ifthenelse{\NOT \isempty{#1}}{\shieldUndef{AR #1 #2}}{%
 \shieldARH{#2}%
-}}}
+}}}}
 
 \newcommand*{\shieldARH}[1]{\shieldState{AR}{#1}}
+\newcommand*{\shieldARS}[1]{\shieldState{AR}{#1\,S}}
 
 
 
