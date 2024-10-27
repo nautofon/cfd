@@ -222,10 +222,19 @@ exit~#1/#2%
 \ifthenelse{\isempty{#1}}{\makeCity{#2}{#2}}{\makeCity{#1}{#2}}}
 \newcommand*{\makeCity}[2]{\section*{#2}\label{city:#1}}
 
-%%%%%\NewDocumentCommand{\CityRef}{ O{} m }{% #1 = label (e.g. SCS token), #2 = visible name
-\newcommand*{\CityRef}[2][]{% #1 = label (e.g. SCS token), #2 = visible name
-\ifthenelse{\isempty{#1}}{\makeCityRef{#2}{#2}}{\makeCityRef{#1}{#2}}}
-\newcommand*{\makeCityRef}[2]{\hyperref[city:#1]{\Town{#2} ($\rightarrow$\,p.\,\pageref*{city:#1})}}
+\NewDocumentCommand{\CityRef}{ O{} m O{} }{% #1 = label (e.g. SCS token), #2 = visible name, #3 = ref fallback
+\ifthenelse{\isempty{#1}}{\CityRef[#2]{#2}[#3]}{%
+\ifthenelse{\isempty{#3}}{\makeCityRef{#1}{#2}}{\makeCityRefOrFallback{#1}{#2}{#3}}%
+}}
+\newcommand*{\makeCityRef}[2]{\hyperref[city:#1]{\makeCityRefText{#2}{p.\,\pageref*{city:#1}}}}
+\newcommand*{\makeCityRefText}[2]{\Town{#1} ($\rightarrow$\,#2)}
+
+\makeatletter
+\newcommand*{\makeCityRefOrFallback}[3]{\@ifundefined{r@city:#1}%
+{\makeCityRefText{#2}{#3}\if@partsw\else\ClassWarning{locdescs}{\refUndefMsg{city:#1}}\fi}%
+{\makeCityRef{#1}{#2}}}
+\makeatother
+\newcommand*{\refUndefMsg}[1]{Reference "#1" (page \thepage) undefined}
 
 % If an individual city exceptionally appears in the TOC, don't show a section number
 \setcounter{secnumdepth}{0}
