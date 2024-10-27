@@ -110,7 +110,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="little_rock" transform="translate(406.1 338.6)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="pine_bluff" transform="translate(416.0 352.3)"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="springdale" transform="translate(375.4 313.2)"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="texarkana_ar" transform="translate(381.6 369.8)"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="texarkana_ar" transform="translate(381.6 369.8)"/>
 	</g>
 	<g id="AZ">
 		<use xlink:href="#all" width="8.5" height="8.5" id="camp_verde" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 181.292 343.25)" style="overflow:visible;"/>

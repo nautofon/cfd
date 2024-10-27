@@ -24,7 +24,7 @@ Arkansas,Jonesboro,jonesboro,all,11,13,11,55,50,2024-10,1.51,
 Arkansas,Little Rock,little_rock,all,11,13,14,55,65,2024-10,1.51,
 Arkansas,Pine Bluff,pine_bluff,all,10,12,12,45,70,2024-10,1.51,
 Arkansas,Springdale,springdale,,7,9,,30,,,,
-Arkansas,Texarkana,texarkana_ar,,6,8,,25,,,,
+Arkansas,Texarkana,texarkana_ar,all,6,8,7,25,35,2024-10,1.51,
 California,Bakersfield,bakersfield,,9,11,,40,,,,
 California,Barstow,barstow,,6,8,,25,,,,
 California,Carlsbad,carlsbad,,4,6,,20,,,,
@@ -184,7 +184,7 @@ Texas,McAllen,mcallen,all,5,7,8,25,20,2023-11,1.49,
 Texas,Odessa,odessa,cleanup,12,14,14,50,50,2024-02,,IRL map
 Texas,San Angelo,san_angelo,cleanup,6,8,8,25,25,2024-01,,IRL map
 Texas,San Antonio,san_antonio,all,14,16,16,55,90,2023-07,1.48,
-Texas,Texarkana,texarkana,all,3,5,6,20,20,2023-09,1.48,
+Texas,Texarkana,texarkana,all,3,5,6,20,35,2024-10,1.51,
 Texas,Tyler,tyler,all,8,10,10,35,35,2023-10,1.48,
 Texas,Van Horn,van_horn,cleanup,6,8,7,25,15,2024-01,,IRL map
 Texas,Victoria,victoria,all,11,13,13,45,65,2023-02,1.46,
