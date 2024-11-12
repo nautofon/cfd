@@ -131,7 +131,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 	</g>
 	<g id="CA">
 		<use xlink:href="#open" width="8.5" height="8.5" id="bakersfield" x="-4.25" y="-4.25" transform="translate(71 301) rotate(14)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="barstow" x="-4.25" y="-4.25" transform="translate(100.5 318.8) rotate(13)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="barstow" x="-4.25" y="-4.25" transform="translate(100.5 318.8) rotate(13)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="blythe" x="-4.25" y="-4.25" transform="translate(129.2 347.7) rotate(12)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="el_centro" x="-4.25" y="-4.25" transform="translate(117 361.8) rotate(12)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="eureka" x="-4.25" y="-4.25" transform="translate(22.8 175.9) rotate(17)" style="overflow:visible;"/>
