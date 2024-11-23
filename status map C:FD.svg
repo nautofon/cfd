@@ -143,7 +143,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="modesto" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 56.9 252.3)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="mojave" x="-4.25" y="-4.25" transform="translate(82 312.3) rotate(14)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="oakland" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 42.2 240.8)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="oxnard" x="-4.25" y="-4.25" transform="translate(65 322.2) rotate(14)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="oxnard" x="-4.25" y="-4.25" transform="translate(65 322.2) rotate(14)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="redding" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 47.4995 180.5)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="sacramento" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 45.124 222.2095)" style="overflow:visible;"/>
 		<use xlink:href="#open" width="8.5" height="8.5" id="san_diego" x="-4.25" y="-4.25" transform="translate(90.8 360) rotate(13)" style="overflow:visible;"/>
