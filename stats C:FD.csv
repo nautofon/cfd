@@ -32,7 +32,7 @@ California,Eureka,eureka,all,6,8,7,25,25,2024-11,1.53,
 California,Fresno,fresno,all,13,15,16,60,65,2024-09,1.51,
 California,Hilt,hilt,all,2,4,2,10,5,2024-10,1.51,
 California,Huron,huron,all,7,9,8,30,30,2024-09,1.51,
-California,Indio,indio,,8,10,,40,,,,
+California,Indio,indio,cleanup,8,10,9,40,15,2024-12,,IRL map
 California,Los Angeles,los_angeles,,19,21,,90,,,,
 California,Modesto,modesto,all,12,14,14,55,50,2024-09,1.51,
 California,Mojave,mojave,all,4,6,5,15,15,2024-12,1.53,
