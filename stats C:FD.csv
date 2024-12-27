@@ -113,16 +113,16 @@ Nebraska,Omaha,omaha,all,10,12,12,40,35,2024-05,1.50,
 Nebraska,Scottsbluff,scottsbluff,all,8,10,11,35,40,2024-06,1.50,
 Nebraska,Sidney,sidney_ne,all,7,9,7,30,20,2024-06,1.50,
 Nebraska,Valentine,valentine,all,5,7,5,25,10,2024-06,1.50,
-Nevada,Carson City,carson_city,,4,6,,20,,,,
-Nevada,Elko,elko,,8,10,,35,,,,
-Nevada,Ely,ely,,4,6,,20,,,,
-Nevada,Jackpot,jackpot,,2,4,,10,,,,
+Nevada,Carson City,carson_city,cleanup,4,6,8,20,,2024-12,1.53,Quick
+Nevada,Elko,elko,cleanup,8,10,9,35,,2024-12,1.53,Quick
+Nevada,Ely,ely,cleanup,4,6,6,20,,2024-12,1.53,Quick
+Nevada,Jackpot,jackpot,cleanup,2,4,4,10,,2024-12,1.53,Quick
 Nevada,Las Vegas,las_vegas,all,9,11,12,40,40,2022-12,1.46,
-Nevada,Pioche,pioche,,1,3,,10,,,,
-Nevada,Primm,primm,,3,5,,15,,,,
-Nevada,Reno,reno,,6,8,,25,,,,
-Nevada,Tonopah,tonopah,,2,4,,10,,,,
-Nevada,Winnemucca,winnemucca,,4,6,,20,,,,
+Nevada,Pioche,pioche,all,1,3,3,10,5,2024-12,1.53,
+Nevada,Primm,primm,all,3,5,3,15,5,2024-12,1.53,
+Nevada,Reno,reno,cleanup,6,8,8,25,,2024-12,1.53,Quick
+Nevada,Tonopah,tonopah,all,2,4,3,10,10,2024-12,1.53,
+Nevada,Winnemucca,winnemucca,cleanup,4,6,6,20,,2024-12,1.53,Quick
 New Mexico,Alamogordo,alamogordo,all,4,6,5,15,15,2022-11,1.46,
 New Mexico,Albuquerque,albuquerque,all,15,17,16,55,60,2022-12,1.46,
 New Mexico,Artesia,artesia,all,4,6,7,25,15,2024-03,1.49,

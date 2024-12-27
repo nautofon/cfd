@@ -27,7 +27,7 @@ As a potentially more up-to-date alternative, the following files are automatica
 
 * The Company/Facility Directory:  
     [cfd-latest-preview.pdf](https://nautofon.github.io/cfd/cfd-latest-preview.pdf)
-    — as single PDF (completed states only)  
+    — as single PDF  
     [cfd-latest-preview.zip](https://nautofon.github.io/cfd/cfd-latest-preview.zip)
     — ZIP file containing separate PDFs for each state
 

@@ -47,7 +47,7 @@
 \renewcommand*{\chaptermarkformat}{}  % suppress chapter number in header
 
 \newcommand*{\copyrightblock}{{
-\centering \vspace{24mm} \footnotesize \itshape
+\centering \vspace{28mm} \footnotesize \itshape
 Copyright \raisebox{.2ex}{\scriptsize\copyright} \the\year\ nautofon \par
 \vspace{.4ex}
 \href{https://creativecommons.org/licenses/by-nc-sa/4.0/}{CC BY-NC-SA 4.0} \par
@@ -251,8 +251,10 @@ exit~#1/#2%
 \NewDocumentCommand{\CityDisclaimer}{ m O{$\ast$} }{% #1 = reason, #2 = footnote
 {\ifthenelse{\equal{#1}{ATS IRL Map} \OR \equal{#1}{Directions Oregon}}%
 {\textsl{The location descriptions for \ThisCity\ have not yet been field checked in ATS by the author.\textsuperscript{\scriptsize #2} Use with caution.}}%
+{\ifthenelse{\equal{#1}{Quick and dirty Nevada}}%
+{\textsl{This is makeshift content for \ThisCity\ in anticipation of the upcoming Nevada rebuild replacing the city entirely. Use with caution.}}%
 {\ClassError{locdescs}{CityDisclaimer reason '#1' unsupported}{}}%
-}}
+}}}
 
 
 

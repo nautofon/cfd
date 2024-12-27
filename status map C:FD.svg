@@ -247,16 +247,16 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="tucumcari" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 319.75 346.6221)" style="overflow:visible;"/>
 	</g>
 	<g id="NV">
-		<use xlink:href="#open" width="8.5" height="8.5" id="carson_city" x="-4.25" y="-4.25" transform="translate(83.17 231.83) rotate(15)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="elko" x="-4.25" y="-4.25" transform="translate(148 203.12) rotate(12)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="ely" x="-4.25" y="-4.25" transform="translate(152.31 237.44) rotate(12)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="jackpot" x="-4.25" y="-4.25" transform="translate(164.5 189.17) rotate(12)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="carson_city" x="-4.25" y="-4.25" transform="translate(83.17 231.83) rotate(15)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="elko" x="-4.25" y="-4.25" transform="translate(148 203.12) rotate(12)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="ely" x="-4.25" y="-4.25" transform="translate(152.31 237.44) rotate(12)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="jackpot" x="-4.25" y="-4.25" transform="translate(164.5 189.17) rotate(12)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="las_vegas" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 141.4985 294.833)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="pioche" x="-4.25" y="-4.25" transform="translate(155.5 257.19) rotate(12)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="primm" x="-4.25" y="-4.25" transform="translate(135.5 305.5) rotate(12)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="reno" x="-4.25" y="-4.25" transform="translate(80.33 215) rotate(15)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="tonopah" x="-4.25" y="-4.25" transform="translate(109.5 253.75) rotate(14)" style="overflow:visible;"/>
-		<use xlink:href="#open" width="8.5" height="8.5" id="winnemucca" x="-4.25" y="-4.25" transform="translate(118 194.12) rotate(14)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="pioche" x="-4.25" y="-4.25" transform="translate(155.5 257.19) rotate(12)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="primm" x="-4.25" y="-4.25" transform="translate(135.5 305.5) rotate(12)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="reno" x="-4.25" y="-4.25" transform="translate(80.33 215) rotate(15)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="tonopah" x="-4.25" y="-4.25" transform="translate(109.5 253.75) rotate(14)" style="overflow:visible;"/>
+		<use xlink:href="#cleanup" width="8.5" height="8.5" id="winnemucca" x="-4.25" y="-4.25" transform="translate(118 194.12) rotate(14)" style="overflow:visible;"/>
 	</g>
 	<g id="OK" transform="translate(-4.25 -4.25)">
 		<use xlink:href="#all" width="8.5" height="8.5" id="ardmore" transform="translate(428.75 362.24)"/>
