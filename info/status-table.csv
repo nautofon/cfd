@@ -1,0 +1,230 @@
+state,city,token,status,date,ver,remarks
+Arizona,Camp Verde,camp_verde,all,2023-02,1.46,
+Arizona,Clifton,clifton,all,2023-02,1.46,
+Arizona,Flagstaff,flagstaff,all,2022-11,1.46,
+Arizona,Grand Canyon Village,g_canyon_vlg,all,2023-02,1.46,
+Arizona,Holbrook,holbrook,all,2023-02,1.46,
+Arizona,Kayenta,kayenta,all,2022-12,1.46,
+Arizona,Kingman,kingman,all,2023-01,1.46,
+Arizona,Nogales,nogales,all,2022-12,1.46,
+Arizona,Page,page,all,2023-02,1.46,
+Arizona,Phoenix,phoenix,all,2022-12,1.46,
+Arizona,San Simon,san_simon,all,2022-12,1.46,
+Arizona,Show Low,show_low,all,2022-12,1.46,
+Arizona,Sierra Vista,sierra_vista,all,2023-02,1.46,
+Arizona,Tucson,tucson,all,2023-01,1.46,
+Arizona,Yuma,yuma,all,2023-01,1.46,
+Arkansas,El Dorado,el_dorado,all,2024-10,1.51,
+Arkansas,Fayetteville,fayetteville,all,2024-10,1.51,
+Arkansas,Fort Smith,fort_smith,all,2024-10,1.51,
+Arkansas,Harrison,harrison,all,2024-10,1.51,
+Arkansas,Hot Springs,hot_springs,all,2024-10,1.51,
+Arkansas,Jonesboro,jonesboro,all,2024-10,1.51,
+Arkansas,Little Rock,little_rock,all,2024-10,1.51,
+Arkansas,Pine Bluff,pine_bluff,all,2024-10,1.51,
+Arkansas,Springdale,springdale,all,2024-10,1.51,
+Arkansas,Texarkana,texarkana_ar,all,2024-10,1.51,
+California,Bakersfield,bakersfield,all,2024-12,1.53,
+California,Barstow,barstow,all,2024-11,1.53,
+California,Blythe,blythe,all,2024-12,1.53,
+California,El Centro,el_centro,all,2024-11,1.53,
+California,Eureka,eureka,all,2024-11,1.53,
+California,Fresno,fresno,all,2024-09,1.51,
+California,Hilt,hilt,all,2024-10,1.51,
+California,Huron,huron,all,2024-09,1.51,
+California,Indio,indio,cleanup,2024-12,,IRL map
+California,Los Angeles,los_angeles,all,2024-12,1.53,
+California,Modesto,modesto,all,2024-09,1.51,
+California,Mojave,mojave,all,2024-12,1.53,
+California,Oakland,oakland,all,2024-08,1.51,
+California,Oxnard,oxnard,all,2024-11,1.53,
+California,Redding,redding,all,2024-10,1.51,
+California,Sacramento,sacramento,all,2024-08,1.51,
+California,San Diego,san_diego,all,2024-12,1.53,
+California,San Francisco,san_francisc,all,2024-08,1.51,
+California,San Jose,san_jose,all,2024-09,1.51,
+California,Santa Cruz,santa_cruz,all,2024-09,1.51,
+California,Santa Maria,santa_maria,all,2024-11,1.53,
+California,Stockton,stockton,all,2024-08,1.51,
+California,Truckee,truckee,all,2024-10,1.51,
+California,Ukiah,ukiah,all,2024-12,1.53,
+Colorado,Alamosa,alamosa,all,2023-03,1.46,
+Colorado,Burlington,burlington,all,2023-02,1.46,
+Colorado,Colorado Springs,colorado_spr,all,2023-03,1.46,
+Colorado,Denver,denver,all,2022-12,1.46,
+Colorado,Durango,durango,all,2022-12,1.46,
+Colorado,Fort Collins,fort_collins,cleanup,2023-03,1.46,IRL map
+Colorado,Grand Junction,grand_juncti,all,2022-11,1.46,
+Colorado,Lamar,lamar,all,2022-12,1.46,
+Colorado,Montrose,montrose,all,2023-03,1.47,
+Colorado,Pueblo,pueblo,all,2022-12,1.46,
+Colorado,Rangely,rangely,all,2023-03,1.47,
+Colorado,Steamboat Springs,steamboat_sp,all,2023-01,1.46,
+Colorado,Sterling,sterling,all,2023-03,1.46,
+Idaho,Boise,boise,all,2022-11,1.46,
+Idaho,Coeur d'Alene,coeur_dalene,all,2022-11,1.46,
+Idaho,Grangeville,grangeville,all,2022-11,1.46,
+Idaho,Idaho Falls,idaho_falls,all,2022-11,1.46,
+Idaho,Ketchum,ketchum,all,2022-11,1.46,
+Idaho,Lewiston,lewiston,all,2022-11,1.46,
+Idaho,Nampa,nampa,all,2022-11,1.46,
+Idaho,Pocatello,pocatello,all,2022-11,1.46,
+Idaho,Salmon,salmon,all,2022-11,1.46,
+Idaho,Sandpoint,sandpoint,all,2022-11,1.46,
+Idaho,Twin Falls,twin_falls,all,2022-11,1.46,
+Kansas,Colby,colby,cleanup,2023-12,,IRL map
+Kansas,Dodge City,dodge_city,cleanup,2023-12,,IRL map
+Kansas,Emporia,emporia,cleanup,2023-12,,IRL map
+Kansas,Garden City,garden_city,cleanup,2023-12,,IRL map
+Kansas,Hays,hays,cleanup,2023-12,,IRL map
+Kansas,Hutchinson,hutchinson,cleanup,2023-12,,IRL map
+Kansas,Junction City,junction_cty,cleanup,2023-12,,IRL map
+Kansas,Kansas City,kansas_ci_ks,cleanup,2023-12,,IRL map
+Kansas,Marysville,marysville,all,2024-06,1.50,
+Kansas,Phillipsburg,phillipsburg,all,2024-06,1.50,
+Kansas,Pittsburg,pittsburg,all,2024-01,1.49,
+Kansas,Salina,salina_ks,cleanup,2023-12,,IRL map
+Kansas,Topeka,topeka,cleanup,2023-12,,IRL map
+Kansas,Wichita,wichita,cleanup,2023-12,,IRL map
+Montana,Billings,billings,cleanup,2023-07,,IRL map
+Montana,Bozeman,bozeman,cleanup,2023-07,,IRL map
+Montana,Butte,butte,cleanup,2023-06,,IRL map
+Montana,Glasgow,glasgow_mt,cleanup,2023-10,,IRL map
+Montana,Glendive,glendive,cleanup,2023-10,,IRL map
+Montana,Great Falls,great_falls,cleanup,2023-07,,IRL map
+Montana,Havre,havre,cleanup,2023-07,,IRL map
+Montana,Helena,helena,all,2022-11,1.46,
+Montana,Kalispell,kalispell,all,2022-09,1.45,
+Montana,Laurel,laurel,all,2022-12,1.46,
+Montana,Lewistown,lewistown,cleanup,2023-07,,IRL map
+Montana,Miles City,miles_city,cleanup,2023-08,,IRL map
+Montana,Missoula,missoula,cleanup,2023-06,,IRL map
+Montana,Sidney,sidney,cleanup,2023-10,,IRL map
+Montana,Thompson Falls,thompson_f,cleanup,2023-07,,IRL map
+Nebraska,Alliance,alliance,all,2024-06,1.50,
+Nebraska,Chadron,chadron,all,2024-06,1.50,
+Nebraska,Columbus,columbus,all,2024-06,1.50,
+Nebraska,Grand Island,grand_island,all,2024-06,1.50,
+Nebraska,Lincoln,lincoln,all,2024-05,1.50,
+Nebraska,McCook,mccook,all,2024-06,1.50,
+Nebraska,Norfolk,norfolk,all,2024-06,1.50,
+Nebraska,North Platte,north_platte,all,2024-07,1.50,
+Nebraska,Omaha,omaha,all,2024-05,1.50,
+Nebraska,Scottsbluff,scottsbluff,all,2024-06,1.50,
+Nebraska,Sidney,sidney_ne,all,2024-06,1.50,
+Nebraska,Valentine,valentine,all,2024-06,1.50,
+Nevada,Carson City,carson_city,cleanup,2024-12,1.53,Quick
+Nevada,Elko,elko,cleanup,2024-12,1.53,Quick
+Nevada,Ely,ely,cleanup,2024-12,1.53,Quick
+Nevada,Jackpot,jackpot,cleanup,2024-12,1.53,Quick
+Nevada,Las Vegas,las_vegas,all,2022-12,1.46,
+Nevada,Pioche,pioche,all,2024-12,1.53,
+Nevada,Primm,primm,all,2024-12,1.53,
+Nevada,Reno,reno,cleanup,2024-12,1.53,Quick
+Nevada,Tonopah,tonopah,all,2024-12,1.53,
+Nevada,Winnemucca,winnemucca,cleanup,2024-12,1.53,Quick
+New Mexico,Alamogordo,alamogordo,all,2022-11,1.46,
+New Mexico,Albuquerque,albuquerque,all,2022-12,1.46,
+New Mexico,Artesia,artesia,all,2024-03,1.49,
+New Mexico,Carlsbad,carlsbad_nm,all,2024-03,1.49,
+New Mexico,Clovis,clovis,all,2024-03,1.49,
+New Mexico,Farmington,farmington,all,2020-06,1.37,
+New Mexico,Gallup,gallup,all,2024-04,1.49,
+New Mexico,Hobbs,hobbs,all,2024-02,1.49,
+New Mexico,Las Cruces,las_cruces,all,2024-03,1.49,
+New Mexico,Raton,raton,all,2022-12,1.46,
+New Mexico,Roswell,roswell,all,2024-03,1.49,
+New Mexico,Santa Fe,santa_fe,all,2024-04,1.49,
+New Mexico,Socorro,socorro,all,2024-04,1.49,
+New Mexico,Tucumcari,tucumcari,all,2022-11,1.46,
+Oklahoma,Ardmore,ardmore,all,2023-08,1.48,
+Oklahoma,Clinton,clinton,all,2023-08,1.48,
+Oklahoma,Enid,enid,all,2023-09,1.48,
+Oklahoma,Guymon,guymon,all,2023-10,1.48,
+Oklahoma,Idabel,idabel,all,2023-08,1.48,
+Oklahoma,Lawton,lawton,all,2023-10,1.48,
+Oklahoma,McAlester,mcalester,all,2023-08,1.48,
+Oklahoma,Oklahoma City,oklahoma_cit,all,2024-08,1.51,
+Oklahoma,Tulsa,tulsa,all,2023-08,1.48,
+Oklahoma,Woodward,woodward,all,2023-08,1.48,
+Oregon,Astoria,astoria,all,2023-01,1.46,
+Oregon,Bend,bend,cleanup,2019,,Dirs OR
+Oregon,Burns,burns,cleanup,2019,,Dirs OR
+Oregon,Coos Bay,coos_bay,cleanup,2019,,Dirs OR
+Oregon,Eugene,eugene,cleanup,2019,,Dirs OR
+Oregon,Klamath Falls,klamath_f,all,2022-12,1.46,
+Oregon,Lakeview,lakeview,cleanup,2019,,Dirs OR
+Oregon,Medford,medford,cleanup,2019,,Dirs OR
+Oregon,Newport,newport,cleanup,2019,,Dirs OR
+Oregon,Ontario,ontario,all,2022-12,1.46,
+Oregon,Pendleton,pendleton,all,2023-02,1.46,
+Oregon,Portland,portland,all,2022-12,1.46,
+Oregon,Salem,salem,cleanup,2019,,Dirs OR
+Oregon,The Dalles,the_dalles,cleanup,2019,,Dirs OR
+Texas,Abilene,abilene,all,2024-02,1.49,
+Texas,Amarillo,amarillo,all,2024-03,1.49,
+Texas,Austin,austin,all,2022-12,1.46,
+Texas,Beaumont,beaumont,all,2023-07,1.48,
+Texas,Brownsville,brownsville,all,2023-11,1.49,
+Texas,Corpus Christi,corpus_chris,all,2023-01,1.46,
+Texas,Dalhart,dalhart,all,2024-03,1.49,
+Texas,Dallas,dallas,all,2023-11,1.49,
+Texas,Del Rio,del_rio,all,2023-02,1.46,
+Texas,El Paso,el_paso,all,2024-01,1.49,
+Texas,Fort Stockton,fort_stockto,cleanup,2024-02,,IRL map
+Texas,Fort Worth,fort_worth,all,2023-11,1.49,
+Texas,Galveston,galveston,all,2022-12,1.46,
+Texas,Houston,houston,all,2023-06,1.48,
+Texas,Huntsville,huntsville,all,2023-11,1.49,
+Texas,Junction,junction,all,2024-01,1.49,
+Texas,Laredo,laredo,all,2023-07,1.48,
+Texas,Longview,longview_tx,all,2023-02,1.46,
+Texas,Lubbock,lubbock,all,2024-02,1.49,
+Texas,Lufkin,lufkin,all,2023-11,1.49,
+Texas,McAllen,mcallen,all,2023-11,1.49,
+Texas,Odessa,odessa,cleanup,2024-02,,IRL map
+Texas,San Angelo,san_angelo,cleanup,2024-01,,IRL map
+Texas,San Antonio,san_antonio,all,2023-07,1.48,
+Texas,Texarkana,texarkana,all,2024-10,1.51,
+Texas,Tyler,tyler,all,2023-10,1.48,
+Texas,Van Horn,van_horn,cleanup,2024-01,,IRL map
+Texas,Victoria,victoria,all,2023-02,1.46,
+Texas,Waco,waco,all,2023-11,1.49,
+Texas,Wichita Falls,wichita_fall,all,2024-03,1.49,
+Utah,Cedar City,cedar_city,all,2023-05,1.47,
+Utah,Logan,logan,all,2023-02,1.46,
+Utah,Moab,moab,all,2023-05,1.47,
+Utah,Ogden,ogden,all,2023-04,1.47,
+Utah,Price,price,cleanup,2023-04,1.47,IRL map
+Utah,Provo,provo,all,2022-11,1.46,
+Utah,Salina,salina,all,2022-12,1.46,
+Utah,Salt Lake City,salt_lake,all,2023-05,1.47,
+Utah,St. George,st_george,cleanup,2023-05,1.47,IRL map
+Utah,Vernal,vernal,all,2023-05,1.47,
+Washington,Aberdeen,aberdeen_wa,all,2022-08,1.45,
+Washington,Bellingham,bellingham,all,2023-03,1.47,
+Washington,Colville,colville,all,2022-10,1.45,
+Washington,Everett,everett,all,2022-10,1.45,
+Washington,Grand Coulee,grand_coulee,all,2022-10,1.45,
+Washington,Kennewick,kennewick,all,2022-09,1.45,
+Washington,Longview,longview,all,2022-10,1.45,
+Washington,Olympia,olympia,all,2022-09,1.45,
+Washington,Omak,omak,all,2022-09,1.45,
+Washington,Port Angeles,port_angeles,all,2022-09,1.45,
+Washington,Seattle,seattle,all,2022-09,1.45,
+Washington,Spokane,spokane,all,2022-09,1.45,
+Washington,Tacoma,tacoma,all,2022-10,1.45,
+Washington,Vancouver,vancouver,all,2022-10,1.45,
+Washington,Wenatchee,wenatchee,all,2022-09,1.45,
+Washington,Yakima,yakima,all,2022-08,1.45,
+Wyoming,Casper,casper,all,2022-12,1.46,
+Wyoming,Cheyenne,cheyenne,all,2022-11,1.46,
+Wyoming,Cody,cody,cleanup,2023-04,1.47,IRL map
+Wyoming,Evanston,evanston,all,2023-04,1.47,
+Wyoming,Gillette,gillette,all,2022-12,1.46,
+Wyoming,Jackson,jackson,all,2023-04,1.47,
+Wyoming,Laramie,laramie,all,2023-03,1.47,
+Wyoming,Rawlins,rawlins,all,2023-02,1.46,
+Wyoming,Riverton,riverton,all,2023-04,1.47,
+Wyoming,Rock Springs,rock_springs,all,2023-04,1.47,
+Wyoming,Sheridan,sheridan,all,2023-04,1.47,

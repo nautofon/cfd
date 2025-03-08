@@ -8,7 +8,7 @@
 	<!ENTITY st6 "fill:#00B700;">
 	<!ENTITY st10 "stroke:#EEEEEE;stroke-width:0.5669;stroke-miterlimit:10;">
 ]>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="597.74px" height="558.55px" viewBox="0 0 597.74 558.55" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="609px" height="522px" viewBox="0 0 609 522" xml:space="preserve">
 <title>Company/Facility Directory status</title>
 <desc>Map showing status overview of the progress on location descriptions
 for the "Company/Facility Directory" project, created 2022 by nautofon.
@@ -18,7 +18,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 <metadata>
 	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#">
 		<cc:Work rdf:about="">
-			<dc:creator xlink:href="https://truck-simulator.fandom.com/wiki/User:Nautofon">
+			<dc:creator xlink:href="https://github.com/nautofon">
 				<cc:Agent>
 					<dc:title>nautofon</dc:title>
 				</cc:Agent>
@@ -50,8 +50,8 @@ clearly acknowledge "nautofon" as the original author.</desc>
 <symbol id="TODO" viewBox="-4.25 -4.25 8.5 8.5">
 	<rect x="-2" y="-2" width="4" height="4" style="fill:red"/>
 </symbol>
-<g id="map">
-	<rect width="597.74" height="558.55"/>
+<g id="map" transform="rotate(-5.5 60 170)">
+	<rect x="-50" y="-15" width="700" height="600"/>
 	<text id="made_by_nautofon" transform="matrix(1 0 0 1 15.00 410.00)" style="font-family:'ArialMT','Arial',sans-serif;fill:#020202;font-size:9px;">by nautofon</text>
 	<path style="&st0;" d="M77.47,0l10.16,14.75c81.55,25.39,184,46.31,282.83,51.61 0 0 55.799 2.7867 88.427 2.4874v-7.7828h4.7894l2.694 11.076 4.7894 3.5921 22.75 3.8914 14.368 5.3881 10.178-2.9934 17.362 4.4901-13.47 7.1841-18.858 18.559 0.29934 2.3947"/>
 	<line style="&st0;" x1="338.27" y1="64.1" x2="324.45" y2="227.16"/>
@@ -79,18 +79,18 @@ clearly acknowledge "nautofon" as the original author.</desc>
 	<path style="&st0;" d="m470.56 322.99h24.246l32.329-1.4967 17.062 0.29934 1.796 2.694-4.7894 5.9868 10.776-0.29934"/>
 	<path style="&st0;" d="m481.94 394.83 48.792-2.3947"/>
 	<path style="&st0;" d="m428.87 541.7-6.822 16.841"/>
-	<path style="&st0;" d="m618.43 128.12-13.17-2.69-1.5 7.78-2.39 2.69-1.2 9.58-2.39-5.69-5.09 4.49-5.69 18.26v8.38l6.88 13.17 .6 12.57-5.39 11.08-5.69 5.09-5.39 .6-2.69-1.5-4.19-9.28-.9-10.78-2.69-9.88 3.89-26.04 5.99-16.46-2.39 .3-8.68 13.47-2.69-1.8 5.39-8.38 6.88-13.47 21.55-8.08 11.38 .9 11.08-3.59-8.08-6.88-8.38-.6-3.89-6.29-24.55 9.88-18.26-8.68 2.99-10.48-33.23 20.65-9.28-6.59-17.06 6.59 .3 11.38-7.18 4.79-.9 3.29 2.69 3.89-.9 15.27 23.05 16.46 .9 8.08 2.1 4.79-1.2 4.19 2.69 6.59 4.79 1.5 8.98 11.08-.3 5.39-2.99 5.99-9.28 2.69-1.2 3.89 3.29 2.39-2.99 8.98-3.59 2.69-1.2 8.98 2.1 6.59 5.99 6.88 4.79 3.29 2.39 7.18 1.5 .9 2.99-1.8 3.29 3.29-3.29 10.48 14.07 10.78 3.59 11.38 4.79 2.39 .6 5.69-5.99 4.19-2.1 9.88-2.1 5.39-2.39 1.8-2.39 6.29 .3 5.69-4.79 5.69-1.8 8.68-4.79 3.29-5.09 12.27 1.8 13.47 .9 2.1-.9 2.99 4.19 9.58-10.48 21.25 .9 4.79 32.03-.6-1.2 6.59 5.69 10.48"/>
+	<path style="&st0;" d="m561.86 449.62-5.69-10.48 1.2-6.59-32.03 .6-.9-4.79 10.48-21.25-4.19-9.58 .9-2.99-.9-2.1-1.8-13.47 5.09-12.27 4.79-3.29 1.8-8.68 4.79-5.69-.3-5.69 2.39-6.29 2.39-1.8 2.1-5.39 2.1-9.88 5.99-4.19-.6-5.69-4.79-2.39-3.59-11.38-14.07-10.78 3.29-10.48-3.29-3.29-2.99 1.8-1.5-.9-2.39-7.18-4.79-3.29-5.99-6.88-2.1-6.59 1.2-8.98 3.59-2.69 2.99-8.98-3.29-2.39 1.2-3.89 9.28-2.69 2.99-5.99 .3-5.39-8.98-11.08-4.79-1.5-2.69-6.59 1.2-4.19-2.1-4.79-.9-8.08-23.05-16.46 .9-15.27-2.69-3.89 .9-3.29 7.18-4.79-.3-11.38 17.06-6.59 9.28 6.59 33.23-20.65-2.99 10.48 18.26 8.68 24.55-9.88 3.89 6.29 8.38 .6 8.08 6.88-11.08 3.59-11.38-.9-21.55 8.08-6.88 13.47-5.39 8.38 2.69 1.8 8.68-13.47 2.39-.3-5.99 16.46-3.89 26.04 2.69 9.88 .9 10.78 4.19 9.28 2.69 1.5 5.39-.6 5.69-5.09 5.39-11.08-.6-12.57-6.88-13.17v-8.38l5.69-18.26 5.09-4.49 2.39 5.69 1.2-9.58 2.39-2.69 1.5-7.78 13.17 2.69 11.24 6 2.53 9.06v9.43l-6.9 9.31 1.42 4.87 2.9-.18 7.95-10.17 6.04 1.36 6.1 19.05"/>
 	<path style="&st0;" d="m527.74 115.54 2.1 1.2 1.5 3.29 22.15 5.99h5.09l6.59 7.48-1.2 3.89 2.99 .9-.6 2.69 2.39 2.39"/>
 	<path style="&st0;" d="m529.23 199.66 41.31-2.99"/>
 	<path style="&st0;" d="m576.23 212.53 4.49 46.7-1.2 5.39 2.69 3.89-.6 4.19-5.39 11.67-1.2 8.98-.9 4.49-5.09 3.89 .9 4.19-1.8 1.5-5.39-1.5-3.29-.3-.3 4.49"/>
-	<path style="&st0;" d="m575.63 290.96 5.99-.3 3.89-2.1 4.19 2.39 1.2-2.1 6.85-3.44"/>
-	<path style="&st0;" d="m554.38 319.69 22.45-1.5v-2.39l20.92-2.62"/>
-	<path style="&st0;" d="m543.3 351.12 35.02-2.1 19.42-2.06"/>
+	<path style="&st0;" d="m575.63 290.96 5.99-.3 3.89-2.1 4.19 2.39 1.2-2.1 4.26-2.45 3.07 2.06 3.7-6.16 4.68 3.45 2.34-5.42 6.66-7.15-.12-4.31 3.21 .25 6.29-2.96-2.22-4.68 1.11-1.36-6.27-51.93"/>
+	<path style="&st0;" d="m554.38 319.69 22.45-1.5-.25-2.82 61.35-5.15"/>
+	<path style="&st0;" d="m543.3 351.12 35.02-2.1 42.35-4.28"/>
 	<path style="&st0;" d="m581.92 442.72-3.29-31.13 .9-58.67-.9-3.89"/>
-	<path style="&st0;" d="m586.16 210.25 11.59-1.11"/>
-	<path style="&st0;" d="m535.62 86.66 4.98-8.85 7.56-4.06 2.4-4.98 3.13-3.32 12.91 3.13 9.22-.18 3.32 2.4 6.27 10.88 12.34 1.11"/>
+	<path style="&st0;" d="m586.16 210.25 31.27-3.53 .17 1.54 20.2-2.9 11.97-28.87"/>
+	<path style="&st0;" d="m535.62 86.66 4.98-8.85 7.56-4.06 2.4-4.98 3.13-3.32 12.91 3.13 9.22-.18 3.32 2.4 6.27 10.88 15.85 1.36-1.67 5.97 6.04 5.3-1.23 8.01 6.04 1.85-1.36 5.18 4.19 .37 1.6-2.47 4.81 6.04 32.11-.92"/>
 </g>
-<g id="legend" transform="translate(175)">
+<g id="legend" transform="translate(-289 456)">
 	<rect x="304.73" y="9.44" style="&st10;" width="87" height="41.12"/>
 	<text transform="matrix(1 0 0 1 319.5923 44.5608)" style="&st1; &st5; &st2;">to-do</text>
 	<use xlink:href="#open" width="8.5" height="8.5" id="legend-unkown_1_" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 312.729 42.2266)" style="overflow:visible;"/>
@@ -99,7 +99,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 	<text transform="matrix(1 0 0 1 319.5933 20.0199)" style="&st1; &st5; &st2;">complete</text>
 	<use xlink:href="#all" width="8.5" height="8.5" id="legend-all_1_" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 312.729 17.7852)" style="overflow:visible;"/>
 </g>
-<g id="data">
+<g id="data" transform="rotate(-5.5 60 170)">
 	<g id="AR" transform="translate(101.87 11.382)">
 		<use xlink:href="#all" width="8.5" height="8.5" id="el_dorado" transform="translate(401.8 371.4)"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="fayetteville" transform="translate(376.4 322.9)"/>

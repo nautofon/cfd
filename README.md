@@ -11,7 +11,7 @@ https://forum.scssoft.com/viewtopic.php?t=317942
 
 ### Status Overview Map
 
-<a href="https://github.com/nautofon/cfd/blob/main/status%20map%20C:FD.svg"><img src="https://github.com/nautofon/cfd/raw/main/status%20map%20C%3AFD.svg?sanitize=true" height="440" alt="Status map C/FD" /></a>
+<a href="info/status-table.csv"><img src="info/status-map.svg?sanitize=true" height="410" alt="Status map C/FD" /></a>
 
 This map shows the completion state of city location descriptions in the C/FD.
 
@@ -53,7 +53,7 @@ As a potentially more up-to-date alternative, the following files are automatica
 
 ### License
 
-Copyright © 2024 nautofon
+Copyright © 2025 nautofon
 
 [![CC By-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
