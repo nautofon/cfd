@@ -1,7 +1,7 @@
 {
 \justifying
 
-\ifthenelse{\isundefined{\IsIncompleteState}}{
+\ifthenelse{\NOT \boolean{isIncompleteState}}{
 
 \noindent
 This chapter is an excerpt from the Company/Facility Directory (C/FD), which is a document designed to assist those who like driving in American Truck Simulator without the help of simulated GPS navigation.
@@ -21,7 +21,7 @@ The full C/FD is available from the discussion thread on the SCS forum:
 \url{https://forum.scssoft.com/viewtopic.php?t=317942} \par
 }
 
-\ifthenelse{\isundefined{\IsIncompleteState}}{\vspace{85mm}}{\vspace{75mm}}
+\ifthenelse{\boolean{isIncompleteState}}{\vspace{75mm}}{\vspace{85mm}}
 
 \copyrightblock
 

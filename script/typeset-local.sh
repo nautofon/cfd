@@ -126,9 +126,9 @@ write_state_tex () {
     return 1
   fi
   
-  code=$( perl -ne 'print lc $1 if /^\\ChapterForState\{(..)\}/' "$all_file.tex" )
+  code=$( perl -ne 'print lc $1 if /^\\ChapterForState(?:\[.*?\])*\{(..)\}/' "$all_file.tex" )
   statefile="$( baseoutname )-$code.tex"
-  if [ -e "$statefile" ]
+  if [ -e "$statefile" ] && ! (($CLEANAUX))
   then
     (>&2 echo "File $statefile exists. Exiting.")
     return 1

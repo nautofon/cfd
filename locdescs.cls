@@ -177,11 +177,24 @@ exit~#1/#2%
 
 % State chapters
 
-\newcommand*{\ChapterForState}[2]{% #1 = chapter code, #2 = chapter title
-\chapter*{#2}
-\markright{#2} % chapter name in page header
-\addcontentsline{toc}{chapter}{\protect\numberline{#1}#2}
-\renewcommand{\thepage}{#1-\arabic{page}}
+\newboolean{isIncompleteState}
+
+\NewDocumentCommand{\ChapterForState}{ O{} m m }{% #1 = incomplete, #2 = chapter code, #3 = chapter title
+\chapter*{#3}
+\markright{#3} % chapter name in page header
+\ifthenelse{\equal{#1}{incomplete}}{
+  \setboolean{isIncompleteState}{true}
+  \addcontentsline{toc}{chapter}{\protect\numberline{#2}#3 \textsl{(incomplete)}}
+  % Disclaimer for incomplete states, only to be shown in the full document
+  % (single-chapter runs already have a disclaimer in the back matter)
+  \makeatletter\if@partsw\else
+    \textsl{The chapter on \@currentlabelname\ is currently still unfinished. Work will likely be completed within the next few weeks.}
+  \par\fi\makeatother
+}{
+  \setboolean{isIncompleteState}{false}
+  \addcontentsline{toc}{chapter}{\protect\numberline{#2}#3}
+}
+\renewcommand{\thepage}{#2-\arabic{page}}
 \setcounter{page}{1} % reset page numbering to 1 for each chapter
 \stepcounter{chapter} % increment the (unused) numeric chapter counter
 }
