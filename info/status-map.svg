@@ -210,7 +210,7 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="helena" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 226.1655 96.668)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="kalispell" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 196.165 57.168)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="laurel" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 265.665 126.6675)" style="overflow:visible;"/>
-		<use xlink:href="#cleanup" width="8.5" height="8.5" id="lewistown" x="-4.25" y="-4.25" transform="translate(260.83 93.84) rotate(9)" style="overflow:visible;"/>
+		<use xlink:href="#all" width="8.5" height="8.5" id="lewistown" x="-4.25" y="-4.25" transform="translate(260.83 93.84) rotate(9)" style="overflow:visible;"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="miles_city" x="-4.25" y="-4.25" transform="translate(309.33 110.5) rotate(6)" style="overflow:visible;"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="missoula" x="-4.25" y="-4.25" transform="translate(195.33 83.83) rotate(11)" style="overflow:visible;"/>
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="sidney" x="-4.25" y="-4.25" transform="translate(330 89.17) rotate(5)" style="overflow:visible;"/>
