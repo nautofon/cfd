@@ -130,6 +130,8 @@ This file was generated on \today. \par
 \widowpenalty=10000
 \displaywidowpenalty=10000
 
+\addtokomafont{caption}{\small}
+
 
 
 % Location list and misc macros
@@ -196,6 +198,8 @@ exit~#1/#2%
 }
 \renewcommand{\thepage}{#2-\arabic{page}}
 \setcounter{page}{1} % reset page numbering to 1 for each chapter
+\renewcommand{\thefigure}{#2-\arabic{figure}}
+\setcounter{figure}{1}
 \stepcounter{chapter} % increment the (unused) numeric chapter counter
 }
 
