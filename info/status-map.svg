@@ -113,20 +113,21 @@ clearly acknowledge "nautofon" as the original author.</desc>
 		<use xlink:href="#all" width="8.5" height="8.5" id="texarkana_ar" transform="translate(381.6 369.8)"/>
 	</g>
 	<g id="AZ">
-		<use xlink:href="#all" width="8.5" height="8.5" id="camp_verde" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 181.292 343.25)" style="overflow:visible;"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="camp_verde" x="-4.25" y="-4.25" transform="translate(181 343) rotate(10)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="clifton" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 217.8335 375.834)" style="overflow:visible;"/>
-		<use xlink:href="#all" width="8.5" height="8.5" id="flagstaff" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 189.417 326)" style="overflow:visible;"/>
-		<use xlink:href="#all" width="8.5" height="8.5" id="g_canyon_vlg" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 182.542 311.125)" style="overflow:visible;"/>
-		<use xlink:href="#all" width="8.5" height="8.5" id="holbrook" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 216.084 338.5)" style="overflow:visible;"/>
-		<use xlink:href="#all" width="8.5" height="8.5" id="kayenta" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 215.0835 303.708)" style="overflow:visible;"/>
-		<use xlink:href="#all" width="8.5" height="8.5" id="kingman" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 151.167 321)" style="overflow:visible;"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="flagstaff" x="-4.25" y="-4.25" transform="translate(190 326) rotate(10)" style="overflow:visible;"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="g_canyon_vlg" x="-4.25" y="-4.25" transform="translate(182 311) rotate(10)" style="overflow:visible;"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="kayenta" x="-4.25" y="-4.25" transform="translate(215 304) rotate(9)" style="overflow:visible;"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="kingman" x="-4.25" y="-4.25" transform="translate(151 321) rotate(11)" style="overflow:visible;"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="lake_havasu" x="-4.25" y="-4.25" transform="translate(155 340) rotate(11)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="nogales" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 187.6665 401.667)" style="overflow:visible;"/>
-		<use xlink:href="#all" width="8.5" height="8.5" id="page" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 197.5005 298.667)" style="overflow:visible;"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="page" x="-4.25" y="-4.25" transform="translate(198 299) rotate(10)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="phoenix" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 171.292 362.125)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="san_simon" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 217.4585 392.583)" style="overflow:visible;"/>
-		<use xlink:href="#all" width="8.5" height="8.5" id="show_low" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 210.917 352.25)" style="overflow:visible;"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="show_low" x="-4.25" y="-4.25" transform="translate(211 352) rotate(9)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="sierra_vista" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 200.6665 402.167)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="tucson" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 190 387)" style="overflow:visible;"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="winslow" x="-4.25" y="-4.25" transform="translate(205 335) rotate(9)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="yuma" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 136 370.667)" style="overflow:visible;"/>
 	</g>
 	<g id="CA">
@@ -232,19 +233,19 @@ clearly acknowledge "nautofon" as the original author.</desc>
 	</g>
 	<g id="NM">
 		<use xlink:href="#all" width="8.5" height="8.5" id="alamogordo" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 278.1665 387.9561)" style="overflow:visible;"/>
-		<use xlink:href="#all" width="8.5" height="8.5" id="albuquerque" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 268.25 344.0381)" style="overflow:visible;"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="albuquerque" x="-4.25" y="-4.25" transform="translate(268 344) rotate(7)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="artesia" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 304.6665 393.873)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="carlsbad_nm" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 310.0835 402.79)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="clovis" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 323.6665 363.7891)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="farmington" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 249.916 306.5381)" style="overflow:visible;"/>
-		<use xlink:href="#all" width="8.5" height="8.5" id="gallup" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 238.2495 329.8721)" style="overflow:visible;"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="gallup" x="-4.25" y="-4.25" transform="translate(238 330) rotate(8)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="hobbs" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 321.25 396.123)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="las_cruces" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 261.4165 399.2061)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="raton" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 310.083 313.9551)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="roswell" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 303.75 381.7891)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="santa_fe" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 285.9995 331.9551)" style="overflow:visible;"/>
 		<use xlink:href="#all" width="8.5" height="8.5" id="socorro" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 264.6665 362.7051)" style="overflow:visible;"/>
-		<use xlink:href="#all" width="8.5" height="8.5" id="tucumcari" x="-4.25" y="-4.25" transform="matrix(1 0 0 -1 319.75 346.6221)" style="overflow:visible;"/>
+		<use xlink:href="#open" width="8.5" height="8.5" id="tucumcari" x="-4.25" y="-4.25" transform="translate(320 347) rotate(4)" style="overflow:visible;"/>
 	</g>
 	<g id="NV">
 		<use xlink:href="#cleanup" width="8.5" height="8.5" id="carson_city" x="-4.25" y="-4.25" transform="translate(83.17 231.83) rotate(15)" style="overflow:visible;"/>
