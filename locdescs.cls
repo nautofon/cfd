@@ -152,6 +152,9 @@ This file was generated on \today. \par
 ]}%
 {\end{description}}
 
+% Former name of this location (#1 = last game version in which the former name was used, #2 = \Location arg)
+\NewDocumentCommand{\Old}{ O{1.52} m }{}
+
 %\newcommand*{\Town}[1]{\textbf{#1}}
 \NewDocumentCommand{\Town}{ m O{} }{\textbf{#1#2}}
 % \Town just performs highlighting, because scenery towns are important navigational info
