@@ -190,7 +190,10 @@ exit~#1/#2%
   % Disclaimer for incomplete states, only to be shown in the full document
   % (single-chapter runs already have a disclaimer in the back matter)
   \makeatletter\if@partsw\else
-    \textsl{The chapter on \@currentlabelname\ is currently still unfinished. Work will likely be completed within the next few weeks.}
+    \textsl{%
+      The chapter on \@currentlabelname\ is currently still unfinished.
+      %Work will likely be completed within the next few weeks.
+    }
   \par\fi\makeatother
 }{
   \setboolean{isIncompleteState}{false}
