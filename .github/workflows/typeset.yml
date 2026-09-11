@@ -21,14 +21,14 @@ jobs:
       baseoutname: ${{ steps.prepare.outputs.baseoutname }}
     steps:
       - name: git checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: Prepare
         id: prepare
         run: |
           baseoutname="cfd-latest-preview"
           echo "baseoutname=$baseoutname" >> "$GITHUB_OUTPUT"
           for f in cities/*/_all.tex ; do
-            code=$( perl -ne 'print lc $1 if /^\\ChapterForState\{(..)\}/' "$f" )
+            code=$( perl -ne 'print lc $1 if /^\\ChapterForState\b\S*\{(..)\}/' "$f" )
             statefile="$baseoutname-$code.tex"
             echo "\includeonly{${f%.tex}} \input{locdescs}" > $statefile
             echo "Created $statefile with \includeonly{${f%.tex}}"
@@ -37,7 +37,7 @@ jobs:
             $dvipdf = 'dvipdfm %O -o %D %S';
           END
       - name: Compile LaTeX documents
-        uses: xu-cheng/latex-action@v3
+        uses: xu-cheng/latex-action@v4
         with:
           root_file: |
             locdescs.tex
@@ -50,8 +50,9 @@ jobs:
         env:
           baseoutname: ${{ steps.prepare.outputs.baseoutname }}
       - name: Store PDF files
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: PDF
           path: '*.pdf'
           retention-days: 1
+          if-no-files-found: error
