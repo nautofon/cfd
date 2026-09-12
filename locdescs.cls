@@ -264,7 +264,9 @@ exit~#1/#2%
 
 
 
-% City disclaimer "not field checked" and sources
+% City disclaimers, "not field checked", sources
+
+\newcommand*{\Forthcoming}{\textsl{forthcoming}}
 
 \RequirePackage{nameref}
 \makeatletter

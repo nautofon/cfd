@@ -24,9 +24,12 @@ my @dirs = grep { $_->is_dir } path('cities')->children( qr/^ [^- .]+ $/x );
 for my $dir ( sort @dirs ) {
   subtest $dir->basename => sub {
 
-    my @files = grep { $_->is_file } $dir->children( qr/^[^_] .* \.tex$/x );
+    my @subdirs = grep { $_->is_dir } $dir->children( qr/^\d\.\d\d/ax );
+    my @files = grep { $_->is_file }
+      map { $_->children( qr/^[^_] .* \.tex$/x ) } $dir, @subdirs;
+
     for my $file ( sort @files ) {
-      my $city = $file->basename =~ s/\.tex$//r;
+      my $city = $file =~ s/^(.*?\/){,2} | \.tex$//grx;
 
       my @locs = map { $_->getFirstChild->getNodeText }
         $tex->parseFile($file)->getCommandNodesByName('Location')->@*;
