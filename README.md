@@ -58,6 +58,18 @@ As a potentially more up-to-date alternative, the following files are automatica
 
 [![Typeset and publish latest](https://github.com/nautofon/cfd/actions/workflows/publish.yml/badge.svg)](https://github.com/nautofon/cfd/actions/workflows/publish.yml)
 
+### Alternate Versions
+
+Variants of the C/FD targeting older ATS versions
+can be typeset from the source data in this repository.
+Use the [make-old-tree.pl](script/make-old-tree.pl) tool.
+
+For example, the files
+[cfd-old-preview.pdf](https://nautofon.github.io/cfd/cfd-old-preview.pdf) /
+[cfd-old-preview.zip](https://nautofon.github.io/cfd/cfd-old-preview.zip)
+currently contain the C/FD for ATS 1.49,
+automatically generated after every change.
+
 ### License
 
 Copyright © 2026 nautofon

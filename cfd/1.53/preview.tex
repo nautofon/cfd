@@ -1,0 +1,35 @@
+\renewcommand*{\ChapterNameInPageHeader}[1]{#1 (\OldVersionNumber)}
+
+\subject{City location descriptions for ATS \OldVersionNumber}
+\title{Company\!/Facility Directory}
+\subtitle{ATS \OldVersionNumber\ Preview Edition}
+
+\hypersetup{
+	pdfsubject={City location descriptions for ATS \OldVersionNumber},
+	pdftitle={Company/Facility Directory (\OldVersionNumber\ Preview)},
+}
+
+\begin{document}
+
+\include{cfd/frontmatter-preview}
+
+\MinVersion{1.36}{\include{cities/arizona/_all}}
+\MinVersion{1.51}{\include{cities/arkansas/_all}}
+\MinVersion{1.44}{\include{cities/california/_all}}
+\MinVersion{1.39}{\include{cities/colorado/_all}}
+\MinVersion{1.38}{\include{cities/idaho/_all}}
+\MinVersion{1.49}{\include{cities/kansas/_all}}
+\MinVersion{1.45}{\include{cities/montana/_all}}
+\MinVersion{1.50}{\include{cities/nebraska/_all}}
+\MinVersion{1.38}{\include{cities/nevada/_all}}
+\MinVersion{1.29}{\include{cities/new_mexico/_all}}
+\MinVersion{1.48}{\include{cities/oklahoma/_all}}
+\MinVersion{1.32}{\include{cities/oregon/_all}}
+\MinVersion{1.46}{\include{cities/texas/_all}}
+\MinVersion{1.36}{\include{cities/utah/_all}}
+\MinVersion{1.35}{\include{cities/washington/_all}}
+\MinVersion{1.41}{\include{cities/wyoming/_all}}
+
+\dontinclude[input]{cfd/backmatter-single}
+
+\end{document}
