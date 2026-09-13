@@ -51,6 +51,32 @@ As a potentially more up-to-date alternative, the following files are automatica
 
 [![Typeset and publish latest](https://github.com/nautofon/cfd/actions/workflows/publish.yml/badge.svg)](https://github.com/nautofon/cfd/actions/workflows/publish.yml)
 
+Additionally, there is a separate version of the C/FD available for players
+who are stuck on an older ATS version. In particular, this is meant for the
+many Mac users who are affected by the severe stuttering graphics bug SCS
+introduced back in 2025 and still hasn't addressed after almost two years.
+
+* If you play ATS 1.53 or later, you should use the regular C/FD,
+    available from the links above.
+
+* If you play ATS 1.49 or earlier, you should use the following files instead:  
+    [pdf](https://nautofon.github.io/cfd/cfd-old-preview.pdf)
+    · [zip](https://nautofon.github.io/cfd/cfd-old-preview.zip)
+    · [AZ](https://nautofon.github.io/cfd/cfd-old-preview-az.pdf)
+    · [CA](https://nautofon.github.io/cfd/cfd-old-preview-ca.pdf)
+    · [CO](https://nautofon.github.io/cfd/cfd-old-preview-co.pdf)
+    · [ID](https://nautofon.github.io/cfd/cfd-old-preview-id.pdf)
+    · [KS](https://nautofon.github.io/cfd/cfd-old-preview-ks.pdf)
+    · [MT](https://nautofon.github.io/cfd/cfd-old-preview-mt.pdf)
+    · [NV](https://nautofon.github.io/cfd/cfd-old-preview-nv.pdf)
+    · [NM](https://nautofon.github.io/cfd/cfd-old-preview-nm.pdf)
+    · [OK](https://nautofon.github.io/cfd/cfd-old-preview-ok.pdf)
+    · [OR](https://nautofon.github.io/cfd/cfd-old-preview-or.pdf)
+    · [TX](https://nautofon.github.io/cfd/cfd-old-preview-tx.pdf)
+    · [UT](https://nautofon.github.io/cfd/cfd-old-preview-ut.pdf)
+    · [WA](https://nautofon.github.io/cfd/cfd-old-preview-wa.pdf)
+    · [WY](https://nautofon.github.io/cfd/cfd-old-preview-wy.pdf)
+
 ### License
 
 Copyright © 2025 nautofon

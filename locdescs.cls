@@ -183,10 +183,11 @@ exit~#1/#2%
 % State chapters
 
 \newboolean{isIncompleteState}
+\newcommand*{\ChapterNameInPageHeader}[1]{#1}
 
 \NewDocumentCommand{\ChapterForState}{ O{} m m }{% #1 = incomplete, #2 = chapter code, #3 = chapter title
 \chapter*{#3}
-\markright{#3} % chapter name in page header
+\markright{\ChapterNameInPageHeader{#3}}
 \ifthenelse{\equal{#1}{incomplete}}{
   \setboolean{isIncompleteState}{true}
   \addcontentsline{toc}{chapter}{\protect\numberline{#2}#3 \textsl{(incomplete)}}

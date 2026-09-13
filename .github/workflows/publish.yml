@@ -24,8 +24,8 @@ jobs:
       - name: Get PDF files
         uses: actions/download-artifact@v8
         with:
-          name: PDF
-          path: .
+          pattern: cfd-*-preview
+          merge-multiple: true
       - name: Bundle state chapter files
         run: |
           datename=$( perl -MTime::Piece -e 'print gmtime->strftime("cfd-%y%m%d")' )
@@ -34,7 +34,12 @@ jobs:
           done
           zip --move --test -9 $baseoutname.zip $datename-*.pdf
         env:
-          baseoutname: ${{ needs.typeset.outputs.baseoutname }}
+          baseoutname: 'cfd-latest-preview'
+      - name: Bundle old files
+        run: |
+          zip --test -9 $baseoutname.zip $baseoutname-*.pdf
+        env:
+          baseoutname: 'cfd-old-preview'
       - name: Setup Pages
         uses: actions/configure-pages@v6
       - name: Upload artifact
