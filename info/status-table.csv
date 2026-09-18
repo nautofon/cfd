@@ -1,18 +1,19 @@
 state,city,token,status,date,ver,remarks
-Arizona,Camp Verde,camp_verde,all,2023-02,1.46,
+Arizona,Camp Verde,camp_verde,,,,reworked
 Arizona,Clifton,clifton,all,2023-02,1.46,
-Arizona,Flagstaff,flagstaff,all,2022-11,1.46,
-Arizona,Grand Canyon Village,g_canyon_vlg,all,2023-02,1.46,
-Arizona,Holbrook,holbrook,all,2023-02,1.46,
-Arizona,Kayenta,kayenta,all,2022-12,1.46,
-Arizona,Kingman,kingman,all,2023-01,1.46,
+Arizona,Flagstaff,flagstaff,,,,reworked
+Arizona,Grand Canyon Village,g_canyon_vlg,,,,reworked
+Arizona,Kayenta,kayenta,,,,reworked
+Arizona,Kingman,kingman,,,,reworked
+Arizona,Lake Havasu City,lake_havasu,,,,new
 Arizona,Nogales,nogales,all,2022-12,1.46,
-Arizona,Page,page,all,2023-02,1.46,
+Arizona,Page,page,,,,reworked
 Arizona,Phoenix,phoenix,all,2022-12,1.46,
 Arizona,San Simon,san_simon,all,2022-12,1.46,
-Arizona,Show Low,show_low,all,2022-12,1.46,
+Arizona,Show Low,show_low,,,,reworked
 Arizona,Sierra Vista,sierra_vista,all,2023-02,1.46,
 Arizona,Tucson,tucson,all,2023-01,1.46,
+Arizona,Winslow,winslow,,,,new
 Arizona,Yuma,yuma,all,2023-01,1.46,
 Arkansas,El Dorado,el_dorado,all,2024-10,1.51,
 Arkansas,Fayetteville,fayetteville,all,2024-10,1.51,
@@ -124,19 +125,19 @@ Nevada,Reno,reno,cleanup,2024-12,1.53,Quick
 Nevada,Tonopah,tonopah,all,2024-12,1.53,
 Nevada,Winnemucca,winnemucca,cleanup,2024-12,1.53,Quick
 New Mexico,Alamogordo,alamogordo,all,2022-11,1.46,
-New Mexico,Albuquerque,albuquerque,all,2022-12,1.46,
+New Mexico,Albuquerque,albuquerque,,,,reworked
 New Mexico,Artesia,artesia,all,2024-03,1.49,
 New Mexico,Carlsbad,carlsbad_nm,all,2024-03,1.49,
 New Mexico,Clovis,clovis,all,2024-03,1.49,
 New Mexico,Farmington,farmington,all,2020-06,1.37,
-New Mexico,Gallup,gallup,all,2024-04,1.49,
+New Mexico,Gallup,gallup,,,,reworked
 New Mexico,Hobbs,hobbs,all,2024-02,1.49,
 New Mexico,Las Cruces,las_cruces,all,2024-03,1.49,
 New Mexico,Raton,raton,all,2022-12,1.46,
 New Mexico,Roswell,roswell,all,2024-03,1.49,
 New Mexico,Santa Fe,santa_fe,all,2024-04,1.49,
 New Mexico,Socorro,socorro,all,2024-04,1.49,
-New Mexico,Tucumcari,tucumcari,all,2022-11,1.46,
+New Mexico,Tucumcari,tucumcari,,,,reworked
 Oklahoma,Ardmore,ardmore,all,2023-08,1.48,
 Oklahoma,Clinton,clinton,all,2023-08,1.48,
 Oklahoma,Enid,enid,all,2023-09,1.48,

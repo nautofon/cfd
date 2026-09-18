@@ -16,7 +16,7 @@ https://forum.scssoft.com/viewtopic.php?t=317942
 This map shows the completion state of city location descriptions in the C/FD.
 
 > [!NOTE]  
-> The C/FD currently does not cover content released in 2025 or later.
+> The C/FD currently does not cover states released in 2025 or later.
 > This is primarily because my system is affected by the severe stuttering
 > graphics bug SCS introduced on macOS back in ATS 1.54 and still hasn't
 > addressed now, almost two years later. For further details, see
