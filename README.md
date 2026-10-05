@@ -15,13 +15,20 @@ https://forum.scssoft.com/viewtopic.php?t=317942
 
 This map shows the completion state of city location descriptions in the C/FD.
 
+> [!NOTE]  
+> The C/FD currently does not cover content released in 2025 or later.
+> This is primarily because my system is affected by the severe stuttering
+> graphics bug SCS introduced on macOS back in ATS 1.54 and still hasn't
+> addressed now, almost two years later. For further details, see
+> [this post](https://forum.scssoft.com/viewtopic.php?p=2134646#p2134646)
+> in the SCS forum thread.
+
 ### Download
 
 Please see the [C/FD discussion thread](https://forum.scssoft.com/viewtopic.php?t=317942)
 on the SCS forum for the most recent official preview release.
 Preview releases are also available from the
 [Releases](https://github.com/nautofon/cfd/releases) section on GitHub.
-New preview releases may be expected several times a year.
 
 As a potentially more up-to-date alternative, the following files are automatically generated after every change:
 
@@ -31,7 +38,7 @@ As a potentially more up-to-date alternative, the following files are automatica
     [cfd-latest-preview.zip](https://nautofon.github.io/cfd/cfd-latest-preview.zip)
     — ZIP file containing separate PDFs for each state
 
-* PDF files for each U.S. state to download individually:  
+* PDF files for each covered U.S. state to download individually:  
     [AZ](https://nautofon.github.io/cfd/cfd-latest-preview-az.pdf)
     · [AR](https://nautofon.github.io/cfd/cfd-latest-preview-ar.pdf)
     · [CA](https://nautofon.github.io/cfd/cfd-latest-preview-ca.pdf)
@@ -53,7 +60,7 @@ As a potentially more up-to-date alternative, the following files are automatica
 
 ### License
 
-Copyright © 2025 nautofon
+Copyright © 2026 nautofon
 
 [![CC By-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
